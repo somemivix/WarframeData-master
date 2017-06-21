@@ -1,0 +1,3402 @@
+{
+  "CeresToJupiterJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "JUPITER JUNCTION [Ceres]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "CeresToJupiterShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO JUPITER [Ceres]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "CeresToMarsShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO MARS [Ceres]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "ClanNode0": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Romula [Venus]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode1": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Malva [Venus]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode10": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Memphis [Phobos]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode11": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Zeugma [Phobos]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode12": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Caracol [Saturn]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode13": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Piscinas [Saturn]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode14": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Amarna [Sedna]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode15": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Sangeru [Sedna]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode16": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Ur [Uranus]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode17": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Assur [Uranus]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode18": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Akkad [Eris]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode19": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Zabala [Eris]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode2": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Coba [PH]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode20": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Yursa [Neptune]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode21": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Kelashin [Neptune]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode22": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Seimeni [Ceres]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode23": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Gabii [Ceres]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode24": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Sechura [Pluto]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode25": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Hieracon [Pluto]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode3": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Tikal [PH]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode4": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Sinai [Jupiter]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode5": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Cameria [Jupiter]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode6": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Larzac [Europa]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode7": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Cholistan [Europa]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode8": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Kadesh [Mars]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "ClanNode9": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Wahiba [Mars]",
+    "node_type": "NT_CLAN",
+    "sharkwing": false
+  },
+  "DerelictToPlutoShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO PLUTO [Derelict]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EarthHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Strata Relay [PH]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "EarthToMarsJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "MARS JUNCTION [PH]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "EarthToMarsShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO MARS [PH]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "EarthToMoonShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO LUA [PH]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "EarthToVenusJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "VENUS JUNCTION [PH]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "EarthToVenusShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO VENUS [PH]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "ErisHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Kuiper Relay [Eris]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "ErisToPlutoShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO PLUTO [Eris]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "EuropaHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Leonov Relay [Europa]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "EuropaToJupiterShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO JUPITER [Europa]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "EuropaToVoidShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "TO VOID [Europa]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "EventNode0": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Balor [Mercury]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode1": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Tethra [Venus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode10": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Lugh [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode11": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Nemed [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode12": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Cryotic Front [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode13": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Shifting Sands [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode14": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Gate Crash [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode15": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Cryotic Front [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode16": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Cryotic Front [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode17": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Cryotic Front [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode18": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": " [Mars]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode19": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": " [Mars]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode2": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Gate Crash [PH]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode20": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Sealab [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode21": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Sealab [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode22": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Sealab [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "EventNode23": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Sealab [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode24": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Gate Crash [PH]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode25": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Gate Crash [PH]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode26": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": " [PH]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode3": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Elatha [Mars]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode4": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Bres [Jupiter]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode5": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Birog [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode6": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Sealab [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode7": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Buarainech [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode8": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Corb [Pluto]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode9": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Gate Crash [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "JupiterToCeresShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO CERES [Jupiter]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "JupiterToEuropaJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "EUROPA JUNCTION [Jupiter]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "JupiterToEuropaShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "TO EUROPA [Jupiter]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "JupiterToSaturnJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "SATURN JUNCTION [Jupiter]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "JupiterToSaturnShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO SATURN [Jupiter]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "MarsToCeresJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "CERES JUNCTION [Mars]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "MarsToCeresShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO CERES [Mars]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "MarsToEarthShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO EARTH [Mars]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "MarsToPhobosJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "PHOBOS JUNCTION [Mars]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "MarsToPhobosShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO PHOBOS [Mars]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "MercuryHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Larunda Relay [Mercury]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "MercuryToVenusShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO VENUS [Mercury]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "MoonToEarthShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO EARTH [Lua]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "NeptuneToPlutoJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "PLUTO JUNCTION [Neptune]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "NeptuneToPlutoShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO PLUTO [Neptune]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "NeptuneToUranusShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO URANUS [Neptune]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "NeptuneToVoidShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO VOID [Neptune]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "PhobosToMarsShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO MARS [Phobos]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "PhobosToVoidShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO VOID [Phobos]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "PlutoHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Orcus Relay [Pluto]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "PlutoToDerelictShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO DERELICT [Pluto]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "PlutoToErisJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "ERIS JUNCTION [Pluto]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "PlutoToErisShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO ERIS [Pluto]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "PlutoToNeptuneShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO NEPTUNE [Pluto]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "PlutoToSednaJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "SEDNA JUNCTION [Pluto]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "PlutoToSednaShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "TO SEDNA [Pluto]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "PvpNode0": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "Cephalon Capture [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode1": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Venus]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode10": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "Annihilation [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode11": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "LUNARO ARENA [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode12": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "(VARIANT) Cephalon Capture [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode13": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "(VARIANT) Team Annihilation [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode14": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "(VARIANT) Annihilation [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode2": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Phobos]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode3": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_PVP",
+    "name": "Cephalon Capture [Neptune]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode4": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Eris]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode5": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Europa]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode6": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Pluto]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode7": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Sedna]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode8": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_PVP",
+    "name": "Conclave [Jupiter]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "PvpNode9": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PVP",
+    "name": "Team Annihilation [Saturn]",
+    "node_type": "NT_PVP",
+    "sharkwing": false
+  },
+  "SaturnHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Kronia Relay [Saturn]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "SaturnToJupiterShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO JUPITER [Saturn]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "SaturnToUranusJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "URANUS JUNCTION [Saturn]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "SaturnToUranusShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "TO URANUS [Saturn]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "SednaToPlutoShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO PLUTO [Sedna]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "SednaToVoidShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO VOID [Sedna]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "SettlementNode1": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Roche [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode10": {
+    "archwing": true,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RACE",
+    "name": "Kepler [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode11": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Gulliver [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode12": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Monolith [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode13": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "D'Arrest [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode14": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Shklovsky [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode15": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Sharpless [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode16": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Wendell [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode17": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Flimnap [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode18": {
+    "archwing": true,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RACE",
+    "name": "Opik [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode19": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Todd [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode2": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Skyresh [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode20": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Iliad [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode3": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Stickney [Phobos]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SettlementNode4": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Drunlo [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode5": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Grildrig [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode6": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Limtoc [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode7": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Hall [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode8": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Reldresal [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SettlementNode9": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Clustril [Phobos]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode1": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Galatea [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode10": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Thebe [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode100": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Elara [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode101": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Kiliken [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode102": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Oceanum [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode103": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "M Prime [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode104": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Fossa [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode105": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Titania [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode106": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Alator [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode107": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Venera [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode108": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Tolstoj [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode109": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Linea [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode11": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Tharsis [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode110": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Hyperion [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode111": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Juliet [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode112": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Setebos [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode113": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Ares [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode114": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Puck [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode115": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Quirinus [Mars]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode116": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Mab [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode117": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ARENA",
+    "name": "Naiad [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode118": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Laomedeia [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode119": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Caloris [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode12": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Elion [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode120": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Halimede [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode121": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Carpo [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode122": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Stephano [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode123": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "V Prime [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode124": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Trinculo [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode125": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Io [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode126": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Metis [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode127": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Psamathe [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode128": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "E Gate [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode13": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Bianca [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode130": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Lares [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode131": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Pallas [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode132": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Bode [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode133": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Vedic [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode134": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Varro [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode135": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Thon [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode136": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Olla [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode137": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Nuovo [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode138": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Ludi [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode139": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Lex [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode14": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Ultor [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode140": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Kiste [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode141": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Ker [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode142": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Hapke [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode143": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Gefion [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode144": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Exta [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode145": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Egeria [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode146": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Draco [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode147": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Cinxia [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode148": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Cerium [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode149": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Casta [Ceres]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode15": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Pacific [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode150": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Albedo [Ceres]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode151": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Acanth [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode152": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_TERRITORY",
+    "name": "Ascar [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode153": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_RESCUE",
+    "name": "Brugia [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode154": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_HIVE",
+    "name": "Candiru [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode155": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_CAPTURE",
+    "name": "Cosis [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode156": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_INTEL",
+    "name": "Cyath [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode157": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Giardia [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode158": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Gnathos [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode159": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_HIVE",
+    "name": "Lepis [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode16": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Augustus [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode160": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Histo [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode161": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Hymeno [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode162": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_CAPTURE",
+    "name": "Isos [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode163": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Ixodes [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode164": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "Kala-azar [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode165": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_TERRITORY",
+    "name": "Sporid [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode166": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Nimus [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode167": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_PURIFY",
+    "name": "Oestrus [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode168": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_TERRITORY",
+    "name": "Phalan [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode169": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_HIVE",
+    "name": "Psoro [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode17": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Proteus [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode170": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_RESCUE",
+    "name": "Ranova [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode171": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Saxis [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode172": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_TERRITORY",
+    "name": "Xini [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode173": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Solium [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode174": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_RESCUE",
+    "name": "Sparga [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode175": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_HIVE",
+    "name": "Naeglar [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode176": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_HIVE",
+    "name": "Viver [Eris]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode177": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Kappa [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode178": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Hyosube [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode179": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Jengu [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode18": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Rhea [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode180": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ARENA",
+    "name": "Undine [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode181": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Adaro [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode182": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Camenae [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode183": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ARENA",
+    "name": "Vodyanoi [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode184": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Rusalka [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode185": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Berehynia [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode186": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Phithale [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode187": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Selkie [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode188": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Kelpie [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode189": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Naga [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode19": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Enceladus [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode190": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ARENA",
+    "name": "Nakki [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode191": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Marid [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode192": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Tikoloshe [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode193": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Merrow [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode194": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Ponaturi [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode195": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Hydron [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode196": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Charybdis [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode197": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Graeae [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode198": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Scylla [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode199": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ARENA",
+    "name": "Yam [Sedna]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode2": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Aphrodite [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode20": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Telesto [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode200": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Veles [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode201": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Tiamat [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode202": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Yemaja [Sedna]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode203": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Abaddon [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode204": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Armaros [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode205": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Baal [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode206": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Eligor [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode207": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Gamygyn [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode208": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Lillith [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode209": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Morax [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode21": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Narcissus [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode210": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Naamah [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode211": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_TERRITORY",
+    "name": "Ose [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode212": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Paimon [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode213": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Shax [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode214": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Sorath [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode215": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Valac [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode216": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Valefor [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode217": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Orias [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode218": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Zagan [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode219": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Beleth [Europa]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode22": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Tessera [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode220": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Kokabiel [Europa]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode221": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Neruda [Mercury]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode222": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Eminescu [Mercury]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode223": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Boethius [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode224": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Odin [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode225": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Suisei [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode226": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Pantheon [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode227": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Verdi [Mercury]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode23": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_TERRITORY",
+    "name": "Cytherean [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode24": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Oro [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode25": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_TERRITORY",
+    "name": "Callisto [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode26": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Lith [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode27": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "E Prime [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode28": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Terminus [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode29": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Oberon [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode3": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Cordelia [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode30": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Olympus [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode300": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Plato [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode301": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Grimaldi [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode302": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Tycho [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode304": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Copernicus [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode305": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Stöfler [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode306": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Pavlov [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode307": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Zeipel [Lua]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode31": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Anthe [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode32": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Tethys [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode33": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Ariel [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode34": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Sycorax [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode35": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Arcadia [Mars]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode36": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Martialis [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode37": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Pallene [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode38": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Minthe [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode39": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Everest [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode4": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Acheron [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode40": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Prospero [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode400": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Teshub [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode401": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_CAPTURE",
+    "name": "Hepit [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode402": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_DEFENSE",
+    "name": "Taranis [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode403": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Tiwaz [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode404": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Stribog [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode405": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Ani [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode406": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_CAPTURE",
+    "name": "Ukko [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode407": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Oxomoco [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode408": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_DEFENSE",
+    "name": "Belenus [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode409": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Mot [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode41": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Arval [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode410": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Aten [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode411": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Marduk [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode412": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_TERRITORY",
+    "name": "Mithra [Void]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode42": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Helene [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode43": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_TERRITORY",
+    "name": "Cerberus [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode44": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Mimas [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode45": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Ara [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode46": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Spear [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode47": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Janus [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode48": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Regna [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode49": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Larissa [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode5": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Perdita [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode50": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Numa [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode51": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Hades [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode52": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Portia [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": true
+  },
+  "SolNode53": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Themisto [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode54": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Silvanus [Mars]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode55": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Methone [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode56": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Cypress [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode57": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Sao [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode58": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Hellas [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode59": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Eurasia [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode6": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXCAVATE",
+    "name": "Despina [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode60": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Caliban [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode61": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Ishtar [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode62": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Neso [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode63": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Mantle [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode64": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Umbriel [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode65": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Gradivus [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode66": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Unda [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode67": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Dione [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode68": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Vallis [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode69": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Ophelia [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode7": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Epimetheus [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode70": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Cassini [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode701": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "Jordas Golem Assassinate [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode702": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "<RAID> THE LAW OF RETRIBUTION [PH]",
+    "node_type": "NT_EMPTY",
+    "sharkwing": false
+  },
+  "SolNode703": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "<NIGHTMARE_RAID> THE LAW OF RETRIBUTION (NIGHTMARE) [PH]",
+    "node_type": "NT_EMPTY",
+    "sharkwing": false
+  },
+  "SolNode704": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "<RAID> THE JORDAS VERDICT [Eris]",
+    "node_type": "NT_EMPTY",
+    "sharkwing": false
+  },
+  "SolNode705": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "MUTALIST ALAD V ASSASSINATE [Eris]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode706": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_CAPTURE",
+    "name": "OROKIN DERELICT CAPTURE [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode707": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_DEFENSE",
+    "name": "OROKIN DERELICT DEFENSE [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode708": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "OROKIN DERELICT EXTERMINATE [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode709": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "OROKIN DERELICT MOBILE DEFENSE [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode71": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Vesper [Venus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode710": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SABOTAGE",
+    "name": "OROKIN DERELICT SABOTAGE [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode711": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "OROKIN DERELICT SURVIVAL [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode712": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "OROKIN DERELICT ASSASSINATE [Derelict]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode72": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_DEFENSE",
+    "name": "Outer Terminus [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode73": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Ananke [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode74": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Carme [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode741": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSAULT",
+    "name": "Koro [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode742": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Nabuk [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode743": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Rotuma [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode744": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Taveuni [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode745": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Tamu [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode746": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Dakata [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode747": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Pago [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode748": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_RESCUE",
+    "name": "Garus [Kuva Fortress]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode75": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Cervantes [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode76": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_CAPTURE",
+    "name": "Hydra [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode761": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ARENA",
+    "name": "THE INDEX [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode762": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ARENA",
+    "name": "THE INDEX [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode763": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ARENA",
+    "name": "THE INDEX [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode764": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_ARENA",
+    "name": "THE INDEX [Neptune]",
+    "node_type": "",
+    "sharkwing": false
+  },
+  "SolNode77": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Cupid [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode78": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RESCUE",
+    "name": "Triton [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode79": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Cambria [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode8": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_COUNTER_INTEL",
+    "name": "Nix [Pluto]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode80": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_CAPTURE",
+    "name": "Phoebe [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode81": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Palus [Pluto]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode82": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Calypso [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode83": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Cressida [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode84": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_RETRIEVAL",
+    "name": "Nereid [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode85": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Gaia [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode86": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Aegaeon [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode87": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Ganymede [Jupiter]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode88": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Adrastea [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode89": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Mariana [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode9": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_INTEL",
+    "name": "Rosalind [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode90": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_DEFENSE",
+    "name": "Miranda [Uranus]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode901": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Caduceus [Mercury]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode902": {
+    "archwing": true,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Montes [Venus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode903": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Erpo [PH]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode904": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_EXTERMINATION",
+    "name": "Syrtis [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode905": {
+    "archwing": true,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Galilea [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode906": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_PURSUIT",
+    "name": "Pandora [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode907": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Caelus [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode908": {
+    "archwing": true,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Salacia [Neptune]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode91": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_TERRITORY",
+    "name": "Iapetus [Saturn]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode92": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Charon [Pluto]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode93": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_MOBILE_DEFENSE",
+    "name": "Keeler [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode94": {
+    "archwing": false,
+    "faction": "FC_INFESTATION",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Apollodorus [Mercury]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode95": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Thalassa [Neptune]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "SolNode96": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SURVIVAL",
+    "name": "Titan [Saturn]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode97": {
+    "archwing": false,
+    "faction": "FC_CORPUS",
+    "mission_type": "MT_INTEL",
+    "name": "Amalthea [Jupiter]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "SolNode98": {
+    "archwing": true,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": "Desdemona [Uranus]",
+    "node_type": "NT_MISSION",
+    "sharkwing": true
+  },
+  "SolNode99": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "War [Mars]",
+    "node_type": "NT_MISSION",
+    "sharkwing": false
+  },
+  "TradeHUB1": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Maroo's Bazaar [PH]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "UranusToNeptuneJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "NEPTUNE JUNCTION [Uranus]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "UranusToNeptuneShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_ASSASSINATION",
+    "name": "TO NEPTUNE [Uranus]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "UranusToSaturnShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO SATURN [Uranus]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "VenusHUB": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_PVP",
+    "name": "Vesper Relay [Venus]",
+    "node_type": "NT_HUB",
+    "sharkwing": false
+  },
+  "VenusToEarthShortcut": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_GENERIC",
+    "name": "TO EARTH [Venus]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "VenusToMercuryJunction": {
+    "archwing": false,
+    "faction": "FC_OROKIN",
+    "mission_type": "MT_JUNCTION",
+    "name": "MERCURY JUNCTION [Venus]",
+    "node_type": "NT_JUNCTION",
+    "sharkwing": false
+  },
+  "VenusToMercuryShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO MERCURY [Venus]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "VoidToEuropaShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO EUROPA [Void]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "VoidToNeptuneShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO NEPTUNE [Void]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "VoidToPhobosShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO PHOBOS [Void]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  },
+  "VoidToSednaShortcut": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_GENERIC",
+    "name": "TO SEDNA [Void]",
+    "node_type": "NT_SHORTCUT",
+    "sharkwing": false
+  }
+}

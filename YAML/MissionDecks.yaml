@@ -1,0 +1,3377 @@
+[/Lotus/PVP/WeeklyChallengeRewards/PVPWeeklyChallengeReward]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ArchwingCacheCoordsReward]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ArchwingExterminateRewards]:
+  Locations:
+   - Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER, NT_EVENT
+   - Venus, Montes, MT_EXTERMINATION, FC_CORPUS, NT_MISSION
+   - Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/ArchwingMobileDRewards]:
+  Locations:
+   - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER, NT_MISSION
+   - Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS, NT_MISSION
+   - Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER, NT_EVENT
+
+[/Lotus/Types/Game/MissionDecks/ArchwingPursuitRewards]:
+  Locations:
+   - Saturn, Pandora, MT_PURSUIT, FC_GRINEER, NT_MISSION
+
+  Rotation A:
+   -  1 Tempered Blade, COMMON, 10.84%
+   -  1 Sudden Impact, COMMON, 10.84%
+   -  1 Poisonous Sting, COMMON, 10.84%
+   -  1 Glacial Edge, COMMON, 10.84%
+   -  1 Galvanized Blade, COMMON, 10.84%
+   -  10 15 ENDO, COMMON, 10.84%
+   -  1 Furor, COMMON, 10.84%
+   -  1 50 ENDO, UNCOMMON, 22.11%
+   -  1 80 ENDO, RARE, 2.01%
+
+
+  Rotation B:
+   -  1 Extend, UNCOMMON, 3.76%
+   -  1 Superior Defenses, UNCOMMON, 3.76%
+   -  1 Cutting Edge, UNCOMMON, 3.76%
+   -  1 System Reroute, UNCOMMON, 3.76%
+   -  1 Efficient Transferral, UNCOMMON, 3.76%
+   -  1 Blazing Steel, UNCOMMON, 3.76%
+   -  3 50 ENDO, COMMON, 77.44%
+
+
+  Rotation C:
+   -  5 80 ENDO, COMMON, 11.11%
+   -  1 MESO D1 RELIC, COMMON, 11.11%
+   -  1 MESO F1 RELIC, COMMON, 11.11%
+   -  1 MESO S2 RELIC, COMMON, 11.11%
+   -  1 MESO N3 RELIC, COMMON, 11.11%
+   -  1 MESO S4 RELIC, COMMON, 11.11%
+   -  1 MESO V1 RELIC, COMMON, 11.11%
+   -  1 MESO S3 RELIC, COMMON, 11.11%
+   -  1 MESO V4 RELIC, COMMON, 11.11%
+
+
+[/Lotus/Types/Game/MissionDecks/ArchwingSabotageRewards]:
+  Locations:
+   - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/AtlasRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/BerserkerRewards]:
+  Locations:
+   - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/CowgirlRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/EmberRewards]:
+  Locations:
+   - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/ExcaliburRewards]:
+  Locations:
+   - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/FomorianRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/FrostRewards]:
+  Locations:
+   - Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/HydroidRewards]:
+  Locations:
+   - Earth, Oro, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/LokiRewards]:
+  Locations:
+   - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/MagRewards]:
+  Locations:
+   - Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/MiterGremlinsRewards]:
+  Locations:
+   - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards]:
+  Locations:
+   - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/NyxRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/RhinoRewards]:
+  Locations:
+   - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/SarynRewards]:
+  Locations:
+   - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/SeerPistolRewards]:
+  Locations:
+   - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/TrinityRewards]:
+  Locations:
+   - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/YinYangRewards]:
+  Locations:
+   - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsEasy]:
+  Locations:
+   - Mercury, Terminus, MT_SABOTAGE, FC_INFESTATION, NT_MISSION
+   - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Venus, Ishtar, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+   - Mars, Gradivus, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsHard]:
+  Locations:
+   - Uranus, Portia, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS, NT_EVENT
+   - Neptune, Halimede, MT_SABOTAGE, FC_CORPUS, NT_EVENT
+   - Pluto, Charon, MT_SABOTAGE, FC_CORPUS, NT_EVENT
+   - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+   - Sedna, Phithale, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+   - Kuva Fortress, Dakata, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsMedium]:
+  Locations:
+   - Jupiter, Adrastea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
+   - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Saturn, Calypso, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+   - Ceres, Thon, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsMoon]:
+  Locations:
+   - Lua, Plato, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVoidMedium]:
+  Locations:
+   - Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVoidUltra]:
+  Locations:
+   - Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVorsPrize]:
+  Locations:
+
+  Rotation A:
+   -  1000 SALVAGE, COMMON, 100%
+
+
+  Rotation B:
+   -  500 POLYMER BUNDLE, COMMON, 100%
+
+
+  Rotation C:
+   -  2 MORPHICS, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA]:
+  Locations:
+   - Mercury, Elion, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Venus, Venera, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Earth, Mantle, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Mars, Ara, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Mars, Quirinus, MT_CAPTURE, FC_CORPUS, NT_EVENT
+   - Jupiter, Ananke, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Saturn, Phoebe, MT_CAPTURE, FC_GRINEER, NT_EVENT
+   - Saturn, Cassini, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Uranus, Ariel, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Uranus, Trinculo, MT_CAPTURE, FC_GRINEER, NT_EVENT
+   - Neptune, Galatea, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Pluto, Hydra, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Pluto, Corb, MT_CAPTURE, FC_CORPUS, NT_EVENT
+   - Ceres, Lex, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Eris, Cosis, MT_CAPTURE, FC_INFESTATION, NT_EVENT
+   - Eris, Isos, MT_CAPTURE, FC_INFESTATION, NT_MISSION
+   - Sedna, Rusalka, MT_CAPTURE, FC_GRINEER, NT_MISSION
+   - Europa, Abaddon, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+   - Europa, Beleth, MT_CAPTURE, FC_CORPUS, NT_EVENT
+   - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+   - Europa, Cryotic Front, MT_CAPTURE, FC_CORPUS, NT_EVENT
+   - Void, Hepit, MT_CAPTURE, FC_OROKIN, NT_MISSION
+   - Void, Ukko, MT_CAPTURE, FC_OROKIN, NT_MISSION
+   - Phobos, Limtoc, MT_CAPTURE, FC_GRINEER, NT_EVENT
+   - Phobos, Skyresh, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Phobos, Todd, MT_CAPTURE, FC_GRINEER, NT_EVENT
+   - Lua, Copernicus, MT_CAPTURE, FC_CORPUS, NT_MISSION
+   - Kuva Fortress, Nabuk, MT_CAPTURE, FC_GRINEER, NT_MISSION
+
+  Rotation A:
+   -  1 Vitality, COMMON, 10.84%
+   -  1 Fast Deflection, COMMON, 10.84%
+   -  1 Rush, UNCOMMON, 11.06%
+   -  1 Magazine Warp, COMMON, 10.84%
+   -  1 Trick Mag, COMMON, 10.84%
+   -  1 Pressure Point, RARE, 0.13%
+   -  1 Ammo Drum, UNCOMMON, 11.06%
+   -  1 Fast Hands, COMMON, 10.84%
+   -  1 Quickdraw, COMMON, 10.84%
+   -  1 HEALTH RESTORE (LARGE), COMMON, 10.84%
+   -  1 OMNI AMMO BOX, RARE, 0.13%
+   -  1 North Wind, RARE, 0.13%
+   -  1 Shocking Touch, RARE, 0.13%
+   -  1 Molten Impact, RARE, 0.13%
+   -  1 Stretch, RARE, 0.13%
+   -  1 LITH S4 RELIC, RARE, 0.13%
+   -  1 LITH N2 RELIC, RARE, 0.13%
+   -  1 MESO S2 RELIC, RARE, 0.13%
+   -  1 MESO S4 RELIC, RARE, 0.13%
+   -  1 NEO T1 RELIC, RARE, 0.13%
+   -  1 MESO N3 RELIC, RARE, 0.13%
+   -  1 MESO S3 RELIC, RARE, 0.13%
+   -  1 MESO V4 RELIC, RARE, 0.13%
+   -  1 NEO N5 RELIC, RARE, 0.13%
+   -  1 NEO B1 RELIC, RARE, 0.13%
+
+
+[/Lotus/Types/Game/MissionDecks/ClemCloneRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+
+  Rotation B:
+   -  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+
+  Rotation C:
+   -  1 CLEM CLONE BLUEPRINT, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsEasy]:
+  Locations:
+
+  Rotation A:
+   -  1 4000 CREDITS, COMMON, 100%
+
+
+  Rotation B:
+   -  1 8000 CREDITS, COMMON, 100%
+
+
+  Rotation C:
+   -  1 15000 CREDITS, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard]:
+  Locations:
+   - Neptune, THE INDEX: ENDURANCE (LOW RISK), MT_ARENA, FC_CORPUS, NT_EVENT
+   - Neptune, THE INDEX: ENDURANCE (MEDIUM RISK), MT_ARENA, FC_CORPUS, NT_EVENT
+   - Neptune, THE INDEX: ENDURANCE (HIGH RISK), MT_ARENA, FC_CORPUS, NT_EVENT
+   - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, 
+
+  Rotation A:
+   -  1 75000 CREDITS, COMMON, 100%
+
+
+  Rotation B:
+   -  1 135000 CREDITS, COMMON, 100%
+
+
+  Rotation C:
+   -  1 200000 CREDITS, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsMedium]:
+  Locations:
+
+  Rotation A:
+   -  1 35000 CREDITS, COMMON, 100%
+
+
+  Rotation B:
+   -  1 60000 CREDITS, COMMON, 100%
+
+
+  Rotation C:
+   -  1 85000 CREDITS, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/CorpusInfestedSabotageRewards]:
+  Locations:
+   - Eris, Candiru, MT_HIVE, FC_INFESTATION, NT_EVENT
+   - Eris, Lepis, MT_HIVE, FC_INFESTATION, NT_EVENT
+   - Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT
+   - Eris, Viver, MT_HIVE, FC_INFESTATION, NT_EVENT
+   - Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CorpusScoutShipSpyRewards]:
+  Locations:
+   - Earth, [PH]Corpus Scout Ship, MT_INTEL, FC_CORPUS, NT_EVENT
+
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]:
+  Locations:
+   - Phobos, Kepler, MT_RACE, FC_CORPUS, NT_MISSION
+
+  Rotation A:
+   -  1 Tempered Blade, COMMON, 14.29%
+   -  1 Sudden Impact, COMMON, 14.29%
+   -  1 Poisonous Sting, COMMON, 14.29%
+   -  1 Glacial Edge, COMMON, 14.29%
+   -  1 Galvanized Blade, COMMON, 14.29%
+   -  10 15 ENDO, COMMON, 14.29%
+   -  1 Furor, COMMON, 14.29%
+
+
+  Rotation B:
+   -  1 Extend, UNCOMMON, 3.76%
+   -  1 Superior Defenses, UNCOMMON, 3.76%
+   -  1 Cutting Edge, UNCOMMON, 3.76%
+   -  1 System Reroute, UNCOMMON, 3.76%
+   -  1 Efficient Transferral, UNCOMMON, 3.76%
+   -  1 Blazing Steel, UNCOMMON, 3.76%
+   -  3 50 ENDO, COMMON, 77.44%
+
+
+  Rotation C:
+   -  1 Meteor Crash, UNCOMMON, 7.52%
+   -  1 Nebula Bore, UNCOMMON, 7.52%
+   -  1 Astral Slash, UNCOMMON, 7.52%
+   -  5 80 ENDO, COMMON, 12.91%
+   -  1 LITH S4 RELIC, COMMON, 12.91%
+   -  1 LITH V2 RELIC, COMMON, 12.91%
+   -  1 LITH S5 RELIC, COMMON, 12.91%
+   -  1 LITH N2 RELIC, COMMON, 12.91%
+   -  1 LITH V3 RELIC, COMMON, 12.91%
+
+
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards]:
+  Locations:
+   - Venus, Romula, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Earth, Coba, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Mars, Kadesh, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Jupiter, Sinai, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Saturn, Caracol, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Uranus, Ur, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Neptune, Yursa, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Pluto, Sechura, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Ceres, Seimeni, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Eris, Akkad, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Sedna, Sangeru, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Europa, Larzac, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+   - Phobos, Memphis, MT_DEFENSE, FC_INFESTATION, NT_CLAN
+
+  Rotation A:
+   -  1 Vitality, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Rush, UNCOMMON, 3.16%
+   -  1 Magazine Warp, COMMON, 15.18%
+   -  1 Trick Mag, COMMON, 15.18%
+   -  1 Pressure Point, RARE, 1.01%
+   -  1 Ammo Drum, UNCOMMON, 3.16%
+   -  1 Fast Hands, UNCOMMON, 3.16%
+   -  1 LITH S4 RELIC, UNCOMMON, 3.16%
+   -  1 LITH N2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH V2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH S5 RELIC, UNCOMMON, 3.16%
+   -  1 True Punishment, RARE, 1.01%
+
+
+  Rotation B:
+   -  1 Speed Trigger, COMMON, 8.43%
+   -  1 Fast Hands, UNCOMMON, 1.47%
+   -  1 Point Strike, COMMON, 8.43%
+   -  1 Vital Sense, COMMON, 8.43%
+   -  1 Piercing Hit, UNCOMMON, 1.47%
+   -  1 Metal Auger, UNCOMMON, 1.47%
+   -  1 Pistol Gambit, COMMON, 8.43%
+   -  1 Target Cracker, COMMON, 8.43%
+   -  1 No Return, COMMON, 8.43%
+   -  1 Ravage, COMMON, 8.43%
+   -  1 Blunderbuss, COMMON, 8.43%
+   -  1 Point Blank, UNCOMMON, 1.47%
+   -  1 Serration, UNCOMMON, 1.47%
+   -  1 Hornet Strike, UNCOMMON, 1.47%
+   -  1 Fury, RARE, 0.67%
+   -  1 Reflex Coil, UNCOMMON, 1.47%
+   -  1 Pressure Point, COMMON, 8.43%
+   -  1 MESO S2 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S4 RELIC, UNCOMMON, 1.47%
+   -  1 MESO D1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO F1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V1 RELIC, UNCOMMON, 1.47%
+   -  1 True Punishment, RARE, 0.67%
+   -  1 Quickening, RARE, 0.67%
+   -  1 MESO N3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V4 RELIC, UNCOMMON, 1.47%
+
+
+  Rotation C:
+   -  1 Hellfire, COMMON, 12.65%
+   -  1 Heated Charge, COMMON, 12.65%
+   -  1 Molten Impact, UNCOMMON, 1.84%
+   -  1 Barrel Diffusion, UNCOMMON, 1.84%
+   -  1 Streamline, UNCOMMON, 1.84%
+   -  1 Intensify, UNCOMMON, 1.84%
+   -  1 NEO T1 RELIC, UNCOMMON, 1.84%
+   -  1 Thunderbolt, RARE, 0.4%
+   -  1 50 ENDO, COMMON, 12.65%
+   -  1 80 ENDO, UNCOMMON, 1.84%
+   -  1 MESO S2 RELIC, COMMON, 12.65%
+   -  1 MESO S4 RELIC, COMMON, 12.65%
+   -  1 NEO V4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO V2 RELIC, UNCOMMON, 1.84%
+   -  1 NEO N4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO A1 RELIC, UNCOMMON, 1.84%
+   -  1 True Punishment, RARE, 0.4%
+   -  1 Quickening, RARE, 0.4%
+   -  1 Enduring Strike, RARE, 0.4%
+   -  1 Life Strike, RARE, 0.4%
+   -  1 MESO V4 RELIC, COMMON, 12.65%
+   -  1 NEO N5 RELIC, UNCOMMON, 1.84%
+   -  1 NEO B1 RELIC, UNCOMMON, 1.84%
+
+
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy]:
+  Locations:
+   - Mercury, Lares, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+   - Venus, Tessera, MT_DEFENSE, FC_CORPUS, NT_MISSION
+   - Earth, Lith, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Mars, Spear, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Ceres, Varro, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Ceres, Casta, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Ceres, Egeria, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Void, Taranis, MT_DEFENSE, FC_OROKIN, NT_MISSION
+   - Phobos, Drunlo, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Phobos, Gulliver, MT_DEFENSE, FC_CORPUS, NT_MISSION
+
+  Rotation A:
+   -  1 SYNTHULA, COMMON, 9.09%
+   -  1 Magazine Warp, COMMON, 9.09%
+   -  1 Trick Mag, COMMON, 9.09%
+   -  1 Pressure Point, COMMON, 9.09%
+   -  1 Ammo Drum, COMMON, 9.09%
+   -  1 LITH V3 RELIC, COMMON, 9.09%
+   -  1 LITH S4 RELIC, COMMON, 9.09%
+   -  1 LITH V2 RELIC, COMMON, 9.09%
+   -  1 LITH N2 RELIC, COMMON, 9.09%
+   -  1 LITH S4 RELIC, COMMON, 9.09%
+   -  1 MESO S2 RELIC, COMMON, 9.09%
+
+
+  Rotation B:
+   -  1 MESO D1 RELIC, COMMON, 7.69%
+   -  1 MESO F1 RELIC, COMMON, 7.69%
+   -  1 MESO S2 RELIC, COMMON, 7.69%
+   -  1 MESO S4 RELIC, COMMON, 7.69%
+   -  1 MESO N3 RELIC, COMMON, 7.69%
+   -  1 MESO V1 RELIC, COMMON, 7.69%
+   -  1 Reflex Coil, COMMON, 7.69%
+   -  1 Cryo Rounds, COMMON, 7.69%
+   -  1 Hell's Chamber, COMMON, 7.69%
+   -  1 Shocking Touch, COMMON, 7.69%
+   -  1 50 ENDO, COMMON, 7.69%
+   -  1 MESO S3 RELIC, COMMON, 7.69%
+   -  1 MESO V4 RELIC, COMMON, 7.69%
+
+
+  Rotation C:
+   -  1 Metal Auger, UNCOMMON, 7.69%
+   -  1 Ravage, UNCOMMON, 7.69%
+   -  1 MESO S4 RELIC, UNCOMMON, 7.69%
+   -  1 MESO S2 RELIC, UNCOMMON, 7.69%
+   -  1 MESO F1 RELIC, UNCOMMON, 7.69%
+   -  1 MESO D1 RELIC, UNCOMMON, 7.69%
+   -  1 Continuity, UNCOMMON, 7.69%
+   -  1 Master Thief, UNCOMMON, 7.69%
+   -  1 80 ENDO, UNCOMMON, 7.69%
+   -  1 MESO N3 RELIC, UNCOMMON, 7.69%
+   -  1 MESO V1 RELIC, UNCOMMON, 7.69%
+   -  1 MESO S3 RELIC, UNCOMMON, 7.69%
+   -  1 MESO V4 RELIC, UNCOMMON, 7.69%
+
+
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsHard]:
+  Locations:
+   - Uranus, Miranda, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Uranus, Bianca, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Neptune, Proteus, MT_DEFENSE, FC_CORPUS, NT_MISSION
+   - Pluto, Outer Terminus, MT_DEFENSE, FC_CORPUS, NT_MISSION
+   - Eris, Kala-azar, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+   - Eris, Ixodes, MT_DEFENSE, FC_INFESTATION, NT_EVENT
+   - Sedna, Hydron, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Void, Belenus, MT_DEFENSE, FC_OROKIN, NT_MISSION
+   - Lua, Stöfler, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Kuva Fortress, Tamu, MT_DEFENSE, FC_GRINEER, NT_MISSION
+
+  Rotation A:
+   -  1 Vitality, COMMON, 9.09%
+   -  1 Magazine Warp, COMMON, 9.09%
+   -  1 Trick Mag, COMMON, 9.09%
+   -  1 NEO V4 RELIC, COMMON, 9.09%
+   -  1 NEO V2 RELIC, COMMON, 9.09%
+   -  1 NEO N4 RELIC, COMMON, 9.09%
+   -  1 NEO T1 RELIC, COMMON, 9.09%
+   -  1 NEO V3 RELIC, COMMON, 9.09%
+   -  1 NEO A1 RELIC, COMMON, 9.09%
+   -  1 NEO N5 RELIC, COMMON, 9.09%
+   -  1 NEO B1 RELIC, COMMON, 9.09%
+
+
+  Rotation B:
+   -  1 AXI G1 RELIC, COMMON, 6.25%
+   -  1 AXI B1 RELIC, COMMON, 6.25%
+   -  1 AXI E2 RELIC, COMMON, 6.25%
+   -  1 AXI H1 RELIC, COMMON, 6.25%
+   -  1 AXI N2 RELIC, COMMON, 6.25%
+   -  1 AXI A1 RELIC, COMMON, 6.25%
+   -  1 Hornet Strike, COMMON, 6.25%
+   -  1 Reflex Coil, COMMON, 6.25%
+   -  1 Deep Freeze, COMMON, 6.25%
+   -  1 North Wind, COMMON, 6.25%
+   -  1 Hell's Chamber, COMMON, 6.25%
+   -  1 Streamline, COMMON, 6.25%
+   -  1 Shocking Touch, COMMON, 6.25%
+   -  1 50 ENDO, COMMON, 6.25%
+   -  1 AXI V5 RELIC, COMMON, 6.25%
+   -  1 AXI C1 RELIC, COMMON, 6.25%
+
+
+  Rotation C:
+   -  1 Vital Sense, UNCOMMON, 2.26%
+   -  1 Metal Auger, UNCOMMON, 2.26%
+   -  1 Ravage, UNCOMMON, 2.26%
+   -  1 Stretch, UNCOMMON, 2.26%
+   -  1 Handspring, UNCOMMON, 2.26%
+   -  1 Convulsion, UNCOMMON, 2.26%
+   -  1 Split Chamber, UNCOMMON, 2.26%
+   -  1 Continuity, UNCOMMON, 2.26%
+   -  1 Master Thief, UNCOMMON, 2.26%
+   -  1 80 ENDO, UNCOMMON, 2.26%
+   -  1 AXI G1 RELIC, COMMON, 9.68%
+   -  1 AXI B1 RELIC, COMMON, 9.68%
+   -  1 AXI E2 RELIC, COMMON, 9.68%
+   -  1 AXI H1 RELIC, COMMON, 9.68%
+   -  1 AXI N2 RELIC, COMMON, 9.68%
+   -  1 AXI A1 RELIC, COMMON, 9.68%
+   -  1 AXI V5 RELIC, COMMON, 9.68%
+   -  1 AXI C1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium]:
+  Locations:
+   - Jupiter, Io, MT_DEFENSE, FC_CORPUS, NT_MISSION
+   - Saturn, Helene, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Saturn, Birog, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Sedna, Camenae, MT_DEFENSE, FC_GRINEER, NT_EVENT
+   - Europa, Paimon, MT_DEFENSE, FC_CORPUS, NT_MISSION
+
+  Rotation A:
+   -  1 MESO D1 RELIC, COMMON, 11.11%
+   -  1 MESO F1 RELIC, COMMON, 11.11%
+   -  1 MESO S2 RELIC, COMMON, 11.11%
+   -  1 MESO S4 RELIC, COMMON, 11.11%
+   -  1 MESO N3 RELIC, COMMON, 11.11%
+   -  1 MESO V1 RELIC, COMMON, 11.11%
+   -  1 15 ENDO, COMMON, 11.11%
+   -  1 MESO S3 RELIC, COMMON, 11.11%
+   -  1 MESO V4 RELIC, COMMON, 11.11%
+
+
+  Rotation B:
+   -  1 NEO V4 RELIC, COMMON, 5.88%
+   -  1 NEO V2 RELIC, COMMON, 5.88%
+   -  1 NEO T1 RELIC, COMMON, 5.88%
+   -  1 NEO A1 RELIC, COMMON, 5.88%
+   -  1 NEO V3 RELIC, COMMON, 5.88%
+   -  1 NEO N4 RELIC, COMMON, 5.88%
+   -  1 Reflex Coil, COMMON, 5.88%
+   -  1 Deep Freeze, COMMON, 5.88%
+   -  1 North Wind, COMMON, 5.88%
+   -  1 Cryo Rounds, COMMON, 5.88%
+   -  1 Hell's Chamber, COMMON, 5.88%
+   -  1 Stormbringer, COMMON, 5.88%
+   -  1 Point Blank, COMMON, 5.88%
+   -  1 Fury, COMMON, 5.88%
+   -  1 50 ENDO, COMMON, 5.88%
+   -  1 NEO N5 RELIC, COMMON, 5.88%
+   -  1 NEO B1 RELIC, COMMON, 5.88%
+
+
+  Rotation C:
+   -  1 Vital Sense, UNCOMMON, 4.51%
+   -  1 Metal Auger, UNCOMMON, 4.51%
+   -  1 Ravage, UNCOMMON, 4.51%
+   -  1 Stretch, UNCOMMON, 4.51%
+   -  1 80 ENDO, UNCOMMON, 4.51%
+   -  1 NEO V4 RELIC, COMMON, 9.68%
+   -  1 NEO V2 RELIC, COMMON, 9.68%
+   -  1 NEO N4 RELIC, COMMON, 9.68%
+   -  1 NEO T1 RELIC, COMMON, 9.68%
+   -  1 NEO V3 RELIC, COMMON, 9.68%
+   -  1 NEO A1 RELIC, COMMON, 9.68%
+   -  1 NEO N5 RELIC, COMMON, 9.68%
+   -  1 NEO B1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/PurifierDefenseMissionRewards]:
+  Locations:
+   - Eris, Oestrus, MT_PURIFY, FC_INFESTATION, NT_MISSION
+
+  Rotation A:
+   -  1 Vitality, COMMON, 9.09%
+   -  1 Magazine Warp, COMMON, 9.09%
+   -  1 Trick Mag, COMMON, 9.09%
+   -  1 NEO V4 RELIC, COMMON, 9.09%
+   -  1 NEO V2 RELIC, COMMON, 9.09%
+   -  1 NEO N4 RELIC, COMMON, 9.09%
+   -  1 NEO T1 RELIC, COMMON, 9.09%
+   -  1 NEO V3 RELIC, COMMON, 9.09%
+   -  1 NEO A1 RELIC, COMMON, 9.09%
+   -  1 NEO N5 RELIC, COMMON, 9.09%
+   -  1 NEO B1 RELIC, COMMON, 9.09%
+
+
+  Rotation B:
+   -  1 AXI G1 RELIC, COMMON, 6.25%
+   -  1 AXI B1 RELIC, COMMON, 6.25%
+   -  1 AXI E2 RELIC, COMMON, 6.25%
+   -  1 AXI H1 RELIC, COMMON, 6.25%
+   -  1 AXI N2 RELIC, COMMON, 6.25%
+   -  1 AXI A1 RELIC, COMMON, 6.25%
+   -  1 Hornet Strike, COMMON, 6.25%
+   -  1 Reflex Coil, COMMON, 6.25%
+   -  1 Deep Freeze, COMMON, 6.25%
+   -  1 North Wind, COMMON, 6.25%
+   -  1 Hell's Chamber, COMMON, 6.25%
+   -  1 Streamline, COMMON, 6.25%
+   -  1 Shocking Touch, COMMON, 6.25%
+   -  1 50 ENDO, COMMON, 6.25%
+   -  1 AXI V5 RELIC, COMMON, 6.25%
+   -  1 AXI C1 RELIC, COMMON, 6.25%
+
+
+  Rotation C:
+   -  1 NIDUS SYSTEMS BLUEPRINT, UNCOMMON, 14.29%
+   -  1 NIDUS NEUROPTICS BLUEPRINT, UNCOMMON, 14.29%
+   -  1 NIDUS CHASSIS BLUEPRINT, UNCOMMON, 14.29%
+   -  1 Vital Sense, UNCOMMON, 14.29%
+   -  1 Metal Auger, UNCOMMON, 14.29%
+   -  1 Stretch, UNCOMMON, 14.29%
+   -  1 80 ENDO, UNCOMMON, 14.29%
+
+
+[/Lotus/Types/Game/MissionDecks/DerelictDefenseRewards]:
+  Locations:
+   - Derelict, OROKIN DERELICT DEFENSE, MT_DEFENSE, FC_INFESTATION, NT_MISSION
+
+  Rotation A:
+   -  3 80 ENDO, COMMON, 14.29%
+   -  3 50 ENDO, COMMON, 14.29%
+   -  1 LITH V2 RELIC, COMMON, 14.29%
+   -  1 LITH S5 RELIC, COMMON, 14.29%
+   -  1 LITH N2 RELIC, COMMON, 14.29%
+   -  1 LITH S4 RELIC, COMMON, 14.29%
+   -  1 LITH V3 RELIC, COMMON, 14.29%
+
+
+  Rotation B:
+   -  3 80 ENDO, COMMON, 38.72%
+   -  3 50 ENDO, COMMON, 38.72%
+   -  1 MUTALIST ALAD V NAV COORDINATE, UNCOMMON, 22.56%
+
+
+  Rotation C:
+   -  1 MESO V1 RELIC, COMMON, 9.68%
+   -  1 MESO D1 RELIC, COMMON, 9.68%
+   -  1 MESO S2 RELIC, COMMON, 9.68%
+   -  1 FORMA BLUEPRINT, UNCOMMON, 22.56%
+   -  1 MESO F1 RELIC, COMMON, 9.68%
+   -  1 MESO S4 RELIC, COMMON, 9.68%
+   -  1 MESO N3 RELIC, COMMON, 9.68%
+   -  1 MESO S3 RELIC, COMMON, 9.68%
+   -  1 MESO V4 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/DerelictSurvivalRewards]:
+  Locations:
+   - Derelict, OROKIN DERELICT SURVIVAL, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+
+  Rotation A:
+   -  1 LITH V2 RELIC, COMMON, 14.29%
+   -  1 LITH S4 RELIC, COMMON, 14.29%
+   -  1 LITH N2 RELIC, COMMON, 14.29%
+   -  1 LITH S5 RELIC, COMMON, 14.29%
+   -  1 LITH V3 RELIC, COMMON, 14.29%
+   -  4 80 ENDO, COMMON, 14.29%
+   -  5 80 ENDO, COMMON, 14.29%
+
+
+  Rotation B:
+   -  1 NEO V2 RELIC, COMMON, 11.11%
+   -  1 NEO T1 RELIC, COMMON, 11.11%
+   -  1 NEO V4 RELIC, COMMON, 11.11%
+   -  1 NEO N4 RELIC, COMMON, 11.11%
+   -  1 MUTALIST ALAD V NAV COORDINATE, COMMON, 11.11%
+   -  1 NEO A1 RELIC, COMMON, 11.11%
+   -  1 NEO V3 RELIC, COMMON, 11.11%
+   -  1 NEO N5 RELIC, COMMON, 11.11%
+   -  1 NEO B1 RELIC, COMMON, 11.11%
+
+
+  Rotation C:
+   -  1 AXI G1 RELIC, COMMON, 9.68%
+   -  1 AXI B1 RELIC, COMMON, 9.68%
+   -  1 AXI N2 RELIC, COMMON, 9.68%
+   -  1 AXI E2 RELIC, COMMON, 9.68%
+   -  1 AXI H1 RELIC, COMMON, 9.68%
+   -  1 OCTAVIA NEUROPTICS BLUEPRINT, UNCOMMON, 22.56%
+   -  1 AXI A1 RELIC, COMMON, 9.68%
+   -  1 AXI V5 RELIC, COMMON, 9.68%
+   -  1 AXI C1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionHighLevelRewards]:
+  Locations:
+   - Neptune, Despina, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+   - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+   - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS, NT_EVENT
+   - Europa, Cholistan, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+
+  Rotation A:
+   -  1 2000 CREDITS, COMMON, 25%
+   -  1 2500 CREDITS, COMMON, 25%
+   -  1 3000 CREDITS, COMMON, 25%
+   -  5 80 ENDO, COMMON, 25%
+
+
+  Rotation B:
+   -  1 NEO V4 RELIC, COMMON, 6.25%
+   -  1 NEO N4 RELIC, COMMON, 6.25%
+   -  1 NEO T1 RELIC, COMMON, 6.25%
+   -  1 NEO A1 RELIC, COMMON, 6.25%
+   -  1 NEO V2 RELIC, COMMON, 6.25%
+   -  1 NEO V3 RELIC, COMMON, 6.25%
+   -  1 Steel Fiber, COMMON, 6.25%
+   -  1 Stretch, COMMON, 6.25%
+   -  1 Serration, COMMON, 6.25%
+   -  1 Hell's Chamber, COMMON, 6.25%
+   -  1 Hornet Strike, COMMON, 6.25%
+   -  1 Flow, COMMON, 6.25%
+   -  1 Split Chamber, COMMON, 6.25%
+   -  1 Stabilizer, COMMON, 6.25%
+   -  1 NEO N5 RELIC, COMMON, 6.25%
+   -  1 NEO B1 RELIC, COMMON, 6.25%
+
+
+  Rotation C:
+   -  1 AXI G1 RELIC, COMMON, 9.68%
+   -  1 AXI N2 RELIC, COMMON, 9.68%
+   -  1 AXI B1 RELIC, COMMON, 9.68%
+   -  1 AXI E2 RELIC, COMMON, 9.68%
+   -  1 AXI H1 RELIC, COMMON, 9.68%
+   -  1 AXI A1 RELIC, COMMON, 9.68%
+   -  1 Cleanse Infested, UNCOMMON, 3.76%
+   -  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Arrow Mutation, UNCOMMON, 3.76%
+   -  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+   -  1 AXI V5 RELIC, COMMON, 9.68%
+   -  1 AXI C1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionLowLevelRewards]:
+  Locations:
+   - Venus, Kiliken, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+   - Earth, Everest, MT_EXCAVATE, FC_GRINEER, NT_MISSION
+   - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
+   - Mars, Augustus, MT_EXCAVATE, FC_GRINEER, NT_MISSION
+   - Phobos, Wendell, MT_EXCAVATE, FC_GRINEER, NT_EVENT
+
+  Rotation A:
+   -  1 500 CREDITS, COMMON, 14.29%
+   -  1 1000 CREDITS, COMMON, 14.29%
+   -  1 1500 CREDITS, COMMON, 14.29%
+   -  1 2000 CREDITS, COMMON, 14.29%
+   -  1 15 ENDO, COMMON, 14.29%
+   -  1 50 ENDO, COMMON, 14.29%
+   -  1 80 ENDO, COMMON, 14.29%
+
+
+  Rotation B:
+   -  1 LITH V2 RELIC, COMMON, 9.09%
+   -  1 LITH S4 RELIC, COMMON, 9.09%
+   -  1 LITH N2 RELIC, COMMON, 9.09%
+   -  1 LITH S5 RELIC, COMMON, 9.09%
+   -  1 LITH V3 RELIC, COMMON, 9.09%
+   -  1 Parry, COMMON, 9.09%
+   -  1 Steel Fiber, COMMON, 9.09%
+   -  1 Serration, COMMON, 9.09%
+   -  1 Incendiary Coat, COMMON, 9.09%
+   -  1 Hornet Strike, COMMON, 9.09%
+   -  1 Intensify, COMMON, 9.09%
+
+
+  Rotation C:
+   -  1 LITH V2 RELIC, COMMON, 15.49%
+   -  1 LITH S4 RELIC, COMMON, 15.49%
+   -  1 LITH N2 RELIC, COMMON, 15.49%
+   -  1 LITH S5 RELIC, COMMON, 15.49%
+   -  1 LITH V3 RELIC, COMMON, 15.49%
+   -  1 Arrow Mutation, UNCOMMON, 3.76%
+   -  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Cleanse Grineer, UNCOMMON, 3.76%
+
+
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionMidLevelRewards]:
+  Locations:
+   - Europa, Lillith, MT_EXCAVATE, FC_CORPUS, NT_EVENT
+   - Europa, Valefor, MT_EXCAVATE, FC_CORPUS, NT_MISSION
+
+  Rotation A:
+   -  1 1500 CREDITS, COMMON, 16.67%
+   -  1 2000 CREDITS, COMMON, 16.67%
+   -  1 2500 CREDITS, COMMON, 16.67%
+   -  1 15 ENDO, COMMON, 16.67%
+   -  1 50 ENDO, COMMON, 16.67%
+   -  1 80 ENDO, COMMON, 16.67%
+
+
+  Rotation B:
+   -  1 MESO D1 RELIC, COMMON, 6.67%
+   -  1 MESO V1 RELIC, COMMON, 6.67%
+   -  1 MESO S2 RELIC, COMMON, 6.67%
+   -  1 MESO S4 RELIC, COMMON, 6.67%
+   -  1 MESO F1 RELIC, COMMON, 6.67%
+   -  1 MESO N3 RELIC, COMMON, 6.67%
+   -  1 Provoked, COMMON, 6.67%
+   -  1 Steel Fiber, COMMON, 6.67%
+   -  1 Serration, COMMON, 6.67%
+   -  1 Hornet Strike, COMMON, 6.67%
+   -  1 Fast Deflection, COMMON, 6.67%
+   -  1 Charged Shell, COMMON, 6.67%
+   -  1 Vital Sense, COMMON, 6.67%
+   -  1 MESO S3 RELIC, COMMON, 6.67%
+   -  1 MESO V4 RELIC, COMMON, 6.67%
+
+
+  Rotation C:
+   -  1 NEO V4 RELIC, COMMON, 9.68%
+   -  1 NEO N4 RELIC, COMMON, 9.68%
+   -  1 NEO T1 RELIC, COMMON, 9.68%
+   -  1 NEO A1 RELIC, COMMON, 9.68%
+   -  1 NEO V2 RELIC, COMMON, 9.68%
+   -  1 NEO V3 RELIC, COMMON, 9.68%
+   -  1 Cleanse Corpus, UNCOMMON, 3.76%
+   -  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Arrow Mutation, UNCOMMON, 3.76%
+   -  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+   -  1 NEO N5 RELIC, COMMON, 9.68%
+   -  1 NEO B1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboChassisQuestExcavationRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 1000 CREDITS, COMMON, 48.71%
+   -  1 1500 CREDITS, COMMON, 48.71%
+   -  1 LIMBO CHASSIS BLUEPRINT, RARE, 2.58%
+
+
+  Rotation B:
+   -  1 1500 CREDITS, COMMON, 38.72%
+   -  1 2000 CREDITS, COMMON, 38.72%
+   -  1 LIMBO CHASSIS BLUEPRINT, UNCOMMON, 22.56%
+
+
+  Rotation C:
+   -  1 2000 CREDITS, COMMON, 33.33%
+   -  1 3000 CREDITS, COMMON, 33.33%
+   -  1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%
+
+
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 1000 CREDITS, COMMON, 48.71%
+   -  1 1500 CREDITS, COMMON, 48.71%
+   -  1 LIMBO NEUROPTICS BLUEPRINT, RARE, 2.58%
+
+
+  Rotation B:
+   -  1 1500 CREDITS, COMMON, 38.72%
+   -  1 2000 CREDITS, COMMON, 38.72%
+   -  1 LIMBO NEUROPTICS BLUEPRINT, UNCOMMON, 22.56%
+
+
+  Rotation C:
+   -  1 2000 CREDITS, COMMON, 33.33%
+   -  1 3000 CREDITS, COMMON, 33.33%
+   -  1 LIMBO NEUROPTICS BLUEPRINT, COMMON, 33.33%
+
+
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 1000 CREDITS, COMMON, 48.71%
+   -  1 1500 CREDITS, COMMON, 48.71%
+   -  1 LIMBO SYSTEMS BLUEPRINT, RARE, 2.58%
+
+
+  Rotation B:
+   -  1 1500 CREDITS, COMMON, 38.72%
+   -  1 2000 CREDITS, COMMON, 38.72%
+   -  1 LIMBO SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+
+  Rotation C:
+   -  1 2000 CREDITS, COMMON, 33.33%
+   -  1 3000 CREDITS, COMMON, 33.33%
+   -  1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%
+
+
+[/Lotus/Types/Game/MissionDecks/ForestSabotageRewards]:
+  Locations:
+   - Earth, Cervantes, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/FusionCoreRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/GolemMissionRewards]:
+  Locations:
+   - Derelict, OROKIN DERELICT ASSASSINATE, MT_ASSASSINATION, FC_INFESTATION, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/HalloweenExtermEventRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/IndexMissionRewardDifficult]:
+  Locations:
+
+  Rotation A:
+   -  FixedWeights=True
+
+   -  1 Pain Threshold, 22.5%
+   -  1 Kinetic Ricochet, 22.5%
+   -  1 Medi-Pet Kit, 22.5%
+   -  1 Thermagnetic Shells, 6.5%
+   -  1 Shield Charger, 6.5%
+   -  1 Static Discharge, 6.5%
+   -  1 Flux Overdrive, 6.5%
+   -  1 Tether Grenades, 6.5%
+
+
+[/Lotus/Types/Game/MissionDecks/IndexMissionRewardEndless]:
+  Locations:
+
+  Rotation A:
+   -  FixedWeights=True
+
+   -  1 Pain Threshold, 20%
+   -  1 Kinetic Ricochet, 20%
+   -  1 Medi-Pet Kit, 20%
+   -  1 Thermagnetic Shells, 8%
+   -  1 Shield Charger, 8%
+   -  1 Static Discharge, 8%
+   -  1 Flux Overdrive, 8%
+   -  1 Tether Grenades, 8%
+
+
+[/Lotus/Types/Game/MissionDecks/IndexMissionRewardStandard]:
+  Locations:
+
+  Rotation A:
+   -  FixedWeights=True
+
+   -  1 Pain Threshold, 25%
+   -  1 Kinetic Ricochet, 25%
+   -  1 Medi-Pet Kit, 25%
+   -  1 Thermagnetic Shells, 5%
+   -  1 Shield Charger, 5%
+   -  1 Static Discharge, 5%
+   -  1 Flux Overdrive, 5%
+   -  1 Tether Grenades, 5%
+
+
+[/Lotus/Types/Game/MissionDecks/IndexQuestFinalMissionRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 150000 CREDITS, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/IndexQuestMissionARewards]:
+  Locations:
+
+  Rotation A:
+   -  1 20000 CREDITS, COMMON, 100%
+
+
+[/Lotus/Types/Game/MissionDecks/InfestedIncursionsSurvivalRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]:
+  Locations:
+   - Uranus, Caelus, MT_TERRITORY, FC_GRINEER, NT_MISSION
+
+  Rotation A:
+   -  1 Automatic Trigger, UNCOMMON, 2.51%
+   -  1 Combustion Rounds, UNCOMMON, 2.51%
+   -  1 Dual Rounds, UNCOMMON, 2.51%
+   -  1 Hollowed Bullets, UNCOMMON, 2.51%
+   -  1 Magazine Extension, UNCOMMON, 2.51%
+   -  1 Modified Munitions, UNCOMMON, 2.51%
+   -  1 Parallax Scope, UNCOMMON, 2.51%
+   -  1 Rubedo-Lined Barrel, UNCOMMON, 2.51%
+   -  1 Venomous Clip, UNCOMMON, 2.51%
+   -  3 50 ENDO, COMMON, 38.72%
+   -  5 50 ENDO, COMMON, 38.72%
+
+
+  Rotation B:
+   -  1 Superior Defenses, COMMON, 10%
+   -  1 Bleeding Edge, COMMON, 10%
+   -  1 Superior Defenses, COMMON, 10%
+   -  1 Argon Plating, COMMON, 10%
+   -  1 Furor, COMMON, 10%
+   -  5 50 ENDO, COMMON, 10%
+   -  1 Glacial Edge, COMMON, 10%
+   -  1 Electrified Barrel, COMMON, 10%
+   -  1 Energy Inversion, COMMON, 10%
+   -  1 50 ENDO, COMMON, 10%
+
+
+  Rotation C:
+   -  5 80 ENDO, UNCOMMON, 22.56%
+   -  5 50 ENDO, COMMON, 7.74%
+   -  1 AXI G1 RELIC, COMMON, 7.74%
+   -  1 AXI B1 RELIC, COMMON, 7.74%
+   -  1 AXI E2 RELIC, COMMON, 7.74%
+   -  1 AXI H1 RELIC, COMMON, 7.74%
+   -  1 AXI A1 RELIC, COMMON, 7.74%
+   -  1 AXI N2 RELIC, COMMON, 7.74%
+   -  1 AXI V5 RELIC, COMMON, 7.74%
+   -  1 AXI C1 RELIC, COMMON, 7.74%
+   -  1 "", COMMON, 7.74%
+
+
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsEasy]:
+  Locations:
+   - Mercury, Odin, MT_TERRITORY, FC_GRINEER, NT_MISSION
+   - Venus, Cytherean, MT_TERRITORY, FC_CORPUS, NT_MISSION
+   - Earth, Gaia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+   - Mars, Alator, MT_TERRITORY, FC_GRINEER, NT_MISSION
+   - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+
+  Rotation A:
+   -  1 Vitality, COMMON, 11.11%
+   -  1 Magazine Warp, COMMON, 11.11%
+   -  1 Trick Mag, COMMON, 11.11%
+   -  1 SYNTHULA, COMMON, 11.11%
+   -  1 LITH S4 RELIC, COMMON, 11.11%
+   -  1 LITH N2 RELIC, COMMON, 11.11%
+   -  1 LITH S5 RELIC, COMMON, 11.11%
+   -  1 LITH V2 RELIC, COMMON, 11.11%
+   -  1 LITH V3 RELIC, COMMON, 11.11%
+
+
+  Rotation B:
+   -  1 Speed Trigger, COMMON, 5.88%
+   -  1 Fast Deflection, COMMON, 5.88%
+   -  1 Rush, COMMON, 5.88%
+   -  1 Target Cracker, COMMON, 5.88%
+   -  1 No Return, COMMON, 5.88%
+   -  1 Serration, COMMON, 5.88%
+   -  1 Hornet Strike, COMMON, 5.88%
+   -  1 Reflex Coil, COMMON, 5.88%
+   -  1 Deep Freeze, COMMON, 5.88%
+   -  1 North Wind, COMMON, 5.88%
+   -  1 MESO V1 RELIC, COMMON, 5.88%
+   -  1 MESO D1 RELIC, COMMON, 5.88%
+   -  1 MESO S4 RELIC, COMMON, 5.88%
+   -  1 MESO S2 RELIC, COMMON, 5.88%
+   -  1 MESO F1 RELIC, COMMON, 5.88%
+   -  1 MESO S3 RELIC, COMMON, 5.88%
+   -  1 MESO V4 RELIC, COMMON, 5.88%
+
+
+  Rotation C:
+   -  1 MESO V1 RELIC, COMMON, 13.92%
+   -  1 MESO D1 RELIC, COMMON, 13.92%
+   -  1 MESO S4 RELIC, COMMON, 13.92%
+   -  1 MESO S2 RELIC, COMMON, 13.92%
+   -  1 MESO F1 RELIC, COMMON, 13.92%
+   -  1 MESO N3 RELIC, COMMON, 13.92%
+   -  1 Natural Talent, RARE, 2.58%
+   -  1 MESO V4 RELIC, COMMON, 13.92%
+
+
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard]:
+  Locations:
+   - Uranus, Stephano, MT_DEFENSE, FC_GRINEER, NT_MISSION
+   - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS, NT_MISSION
+   - Eris, Sporid, MT_TERRITORY, FC_INFESTATION, NT_EVENT
+   - Eris, Phalan, MT_TERRITORY, FC_INFESTATION, NT_EVENT
+   - Eris, Xini, MT_TERRITORY, FC_INFESTATION, NT_MISSION
+   - Sedna, Berehynia, MT_TERRITORY, FC_GRINEER, NT_MISSION
+   - Void, Mithra, MT_TERRITORY, FC_OROKIN, NT_MISSION
+
+  Rotation A:
+   -  1 Vitality, COMMON, 9.09%
+   -  1 Magazine Warp, COMMON, 9.09%
+   -  1 Trick Mag, COMMON, 9.09%
+   -  1 NEO N4 RELIC, COMMON, 9.09%
+   -  1 NEO V4 RELIC, COMMON, 9.09%
+   -  1 NEO A1 RELIC, COMMON, 9.09%
+   -  1 NEO T1 RELIC, COMMON, 9.09%
+   -  1 NEO V2 RELIC, COMMON, 9.09%
+   -  1 NEO V3 RELIC, COMMON, 9.09%
+   -  1 NEO N5 RELIC, COMMON, 9.09%
+   -  1 NEO B1 RELIC, COMMON, 9.09%
+
+
+  Rotation B:
+   -  1 AXI N2 RELIC, COMMON, 16.67%
+   -  1 AXI G1 RELIC, COMMON, 16.67%
+   -  1 AXI B1 RELIC, COMMON, 16.67%
+   -  1 AXI E2 RELIC, COMMON, 16.67%
+   -  1 AXI H1 RELIC, COMMON, 16.67%
+   -  1 AXI A1 RELIC, COMMON, 16.67%
+
+
+  Rotation C:
+   -  1 AXI N2 RELIC, RARE, 2.58%
+   -  1 AXI B1 RELIC, COMMON, 13.92%
+   -  1 AXI E2 RELIC, COMMON, 13.92%
+   -  1 AXI H1 RELIC, COMMON, 13.92%
+   -  1 AXI G1 RELIC, COMMON, 13.92%
+   -  1 AXI A1 RELIC, COMMON, 13.92%
+   -  1 AXI V5 RELIC, COMMON, 13.92%
+   -  1 AXI C1 RELIC, COMMON, 13.92%
+
+
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium]:
+  Locations:
+   - Jupiter, Callisto, MT_TERRITORY, FC_CORPUS, NT_MISSION
+   - Saturn, Iapetus, MT_TERRITORY, FC_GRINEER, NT_EVENT
+   - Saturn, Rhea, MT_TERRITORY, FC_GRINEER, NT_MISSION
+   - Uranus, Umbriel, MT_TERRITORY, FC_GRINEER, NT_MISSION
+   - Europa, Ose, MT_TERRITORY, FC_CORPUS, NT_MISSION
+
+  Rotation A:
+   -  1 Vitality, COMMON, 8.33%
+   -  1 Magazine Warp, COMMON, 8.33%
+   -  1 Trick Mag, COMMON, 8.33%
+   -  1 MESO V1 RELIC, COMMON, 8.33%
+   -  1 MESO D1 RELIC, COMMON, 8.33%
+   -  1 MESO S4 RELIC, COMMON, 8.33%
+   -  1 MESO S2 RELIC, COMMON, 8.33%
+   -  1 MESO F1 RELIC, COMMON, 8.33%
+   -  1 MESO N3 RELIC, COMMON, 8.33%
+   -  1 15 ENDO, COMMON, 8.33%
+   -  1 MESO S3 RELIC, COMMON, 8.33%
+   -  1 MESO V4 RELIC, COMMON, 8.33%
+
+
+  Rotation B:
+   -  1 Target Cracker, COMMON, 6.25%
+   -  1 No Return, COMMON, 6.25%
+   -  1 Serration, COMMON, 6.25%
+   -  1 Hornet Strike, COMMON, 6.25%
+   -  1 Reflex Coil, COMMON, 6.25%
+   -  1 North Wind, COMMON, 6.25%
+   -  1 Hell's Chamber, COMMON, 6.25%
+   -  1 NEO N4 RELIC, COMMON, 6.25%
+   -  1 NEO V4 RELIC, COMMON, 6.25%
+   -  1 NEO A1 RELIC, COMMON, 6.25%
+   -  1 NEO T1 RELIC, COMMON, 6.25%
+   -  1 NEO V2 RELIC, COMMON, 6.25%
+   -  1 NEO V3 RELIC, COMMON, 6.25%
+   -  1 50 ENDO, COMMON, 6.25%
+   -  1 NEO N5 RELIC, COMMON, 6.25%
+   -  1 NEO B1 RELIC, COMMON, 6.25%
+
+
+  Rotation C:
+   -  1 NEO N4 RELIC, COMMON, 12.5%
+   -  1 NEO V4 RELIC, COMMON, 12.5%
+   -  1 NEO A1 RELIC, COMMON, 12.5%
+   -  1 NEO T1 RELIC, COMMON, 12.5%
+   -  1 NEO V2 RELIC, COMMON, 12.5%
+   -  1 NEO V3 RELIC, COMMON, 12.5%
+   -  1 NEO N5 RELIC, COMMON, 12.5%
+   -  1 NEO B1 RELIC, COMMON, 12.5%
+
+
+[/Lotus/Types/Game/MissionDecks/InterceptRewardsGrineer]:
+  Locations:
+
+  Rotation A:
+   -  1 Vitality, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Rush, UNCOMMON, 3.16%
+   -  1 Magazine Warp, COMMON, 15.18%
+   -  1 Trick Mag, COMMON, 15.18%
+   -  1 Pressure Point, RARE, 2.01%
+   -  1 Ammo Drum, UNCOMMON, 3.16%
+   -  1 Fast Hands, UNCOMMON, 3.16%
+   -  1 LITH S4 RELIC, UNCOMMON, 3.16%
+   -  1 LITH N2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH V2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH S5 RELIC, UNCOMMON, 3.16%
+
+
+  Rotation B:
+   -  1 Speed Trigger, COMMON, 8.43%
+   -  1 Fast Hands, UNCOMMON, 1.47%
+   -  1 Point Strike, COMMON, 8.43%
+   -  1 Vital Sense, COMMON, 8.43%
+   -  1 Piercing Hit, UNCOMMON, 1.47%
+   -  1 Metal Auger, UNCOMMON, 1.47%
+   -  1 Pistol Gambit, COMMON, 8.43%
+   -  1 Target Cracker, COMMON, 8.43%
+   -  1 No Return, COMMON, 8.43%
+   -  1 Ravage, COMMON, 8.43%
+   -  1 Blunderbuss, COMMON, 8.43%
+   -  1 Point Blank, UNCOMMON, 1.47%
+   -  1 Serration, UNCOMMON, 1.47%
+   -  1 Hornet Strike, UNCOMMON, 1.47%
+   -  1 Fury, RARE, 2.01%
+   -  1 Reflex Coil, UNCOMMON, 1.47%
+   -  1 Pressure Point, COMMON, 8.43%
+   -  1 MESO S2 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S4 RELIC, UNCOMMON, 1.47%
+   -  1 MESO D1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO F1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO N3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V4 RELIC, UNCOMMON, 1.47%
+
+
+  Rotation C:
+   -  1 Natural Talent, RARE, 1.01%
+   -  1 North Wind, COMMON, 10.84%
+   -  1 Cryo Rounds, UNCOMMON, 1.84%
+   -  1 Hell's Chamber, UNCOMMON, 1.84%
+   -  1 Stretch, UNCOMMON, 1.84%
+   -  1 Streamline, UNCOMMON, 1.84%
+   -  1 NEO T1 RELIC, UNCOMMON, 1.84%
+   -  1 Handspring, RARE, 1.01%
+   -  1 MESO S2 RELIC, COMMON, 10.84%
+   -  1 MESO S4 RELIC, COMMON, 10.84%
+   -  1 50 ENDO, COMMON, 10.84%
+   -  1 80 ENDO, UNCOMMON, 1.84%
+   -  1 NEO V4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO V2 RELIC, UNCOMMON, 1.84%
+   -  1 NEO N4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO A1 RELIC, UNCOMMON, 1.84%
+   -  1 MESO N3 RELIC, COMMON, 10.84%
+   -  1 MESO S3 RELIC, COMMON, 10.84%
+   -  1 MESO V4 RELIC, COMMON, 10.84%
+   -  1 NEO N5 RELIC, UNCOMMON, 1.84%
+   -  1 NEO B1 RELIC, UNCOMMON, 1.84%
+
+
+[/Lotus/Types/Game/MissionDecks/InvasionRewards]:
+  Locations:
+
+  Rotation A:
+   -  3 DETONITE INJECTOR, COMMON, 75.88%
+   -  1 KARAK WRAITH BLUEPRINT, UNCOMMON, 1.11%
+   -  1 KARAK WRAITH BARREL, UNCOMMON, 1.11%
+   -  1 KARAK WRAITH RECEIVER, UNCOMMON, 1.11%
+   -  1 KARAK WRAITH STOCK, UNCOMMON, 1.11%
+   -  1 STRUN WRAITH BLUEPRINT, UNCOMMON, 1.11%
+   -  1 STRUN WRAITH BARREL, UNCOMMON, 1.11%
+   -  1 STRUN WRAITH RECEIVER, UNCOMMON, 1.11%
+   -  1 STRUN WRAITH STOCK, UNCOMMON, 1.11%
+   -  1 LATRON WRAITH BLUEPRINT, UNCOMMON, 1.11%
+   -  1 LATRON WRAITH BARREL, UNCOMMON, 1.11%
+   -  1 LATRON WRAITH RECEIVER, UNCOMMON, 1.11%
+   -  1 LATRON WRAITH STOCK, UNCOMMON, 1.11%
+   -  1 TWIN VIPERS WRAITH BLUEPRINT, UNCOMMON, 1.11%
+   -  1 TWIN VIPERS WRAITH BARRELS, UNCOMMON, 1.11%
+   -  1 TWIN VIPERS WRAITH LINK, UNCOMMON, 1.11%
+   -  1 TWIN VIPERS WRAITH RECEIVERS, UNCOMMON, 1.11%
+   -  1 SHEEV BLUEPRINT, UNCOMMON, 1.11%
+   -  1 SHEEV HILT, UNCOMMON, 1.11%
+   -  1 SHEEV BLADE, UNCOMMON, 1.11%
+   -  1 SHEEV HEATSINK, UNCOMMON, 1.11%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 0.5%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 0.5%
+   -  1 FORMA BLUEPRINT, RARE, 0.5%
+   -  1 EXILUS ADAPTER, RARE, 0.5%
+
+
+  Rotation B:
+   -  3 FIELDRON, COMMON, 75.88%
+   -  1 DERA VANDAL BLUEPRINT, UNCOMMON, 2.76%
+   -  1 DERA VANDAL BARREL, UNCOMMON, 2.76%
+   -  1 DERA VANDAL RECEIVER, UNCOMMON, 2.76%
+   -  1 DERA VANDAL STOCK, UNCOMMON, 2.76%
+   -  1 SNIPETRON VANDAL BLUEPRINT, UNCOMMON, 2.76%
+   -  1 SNIPETRON VANDAL STOCK, UNCOMMON, 2.76%
+   -  1 SNIPETRON VANDAL RECEIVER, UNCOMMON, 2.76%
+   -  1 SNIPETRON VANDAL BARREL, UNCOMMON, 2.76%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 0.5%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 0.5%
+   -  1 FORMA BLUEPRINT, RARE, 0.5%
+   -  1 EXILUS ADAPTER, RARE, 0.5%
+
+
+  Rotation C:
+   -  1 MUTAGEN MASS, COMMON, 75.88%
+   -  2 MUTAGEN MASS, UNCOMMON, 22.11%
+   -  1 MUTALIST ALAD V NAV COORDINATE, RARE, 2.01%
+
+
+[/Lotus/Types/Game/MissionDecks/KelaEventRewardsEasy]:
+  Locations:
+   - Sedna, Undine, MT_ARENA, FC_GRINEER, NT_EVENT
+
+[/Lotus/Types/Game/MissionDecks/KelaEventRewardsHard]:
+  Locations:
+   - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER, NT_MISSION
+   - Sedna, Yam, MT_ARENA, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/KelaEventRewardsMedium]:
+  Locations:
+   - Sedna, Nakki, MT_ARENA, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/MacheteMayhemBonusRewards]:
+  Locations:
+
+  Rotation A:
+   -  5 80 ENDO, COMMON, 75.88%
+   -  1 MADURAI LENS, RARE, 0.29%
+   -  1 VAZARIN LENS, RARE, 0.29%
+   -  1 ZENURIK LENS, RARE, 0.29%
+   -  1 NARAMON LENS, RARE, 0.29%
+   -  1 UNAIRU LENS, RARE, 0.29%
+   -  1 FORMA, RARE, 0.29%
+   -  1 EXILUS ADAPTER, RARE, 0.29%
+   -  1 Voltaic Strike, UNCOMMON, 5.53%
+   -  1 Jolt, UNCOMMON, 5.53%
+   -  1 High Voltage, UNCOMMON, 5.53%
+   -  1 Shell Shock, UNCOMMON, 5.53%
+
+
+[/Lotus/Types/Game/MissionDecks/MirageRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus]:
+  Locations:
+
+  Rotation A:
+   -  1 Vitality, COMMON, 12.65%
+   -  1 Fast Deflection, COMMON, 12.65%
+   -  1 Fast Deflection, COMMON, 12.65%
+   -  1 Rush, UNCOMMON, 3.69%
+   -  1 Magazine Warp, COMMON, 12.65%
+   -  1 Trick Mag, COMMON, 12.65%
+   -  1 Pressure Point, RARE, 2.01%
+   -  1 Ammo Drum, UNCOMMON, 3.69%
+   -  1 Fast Hands, UNCOMMON, 3.69%
+   -  1 LITH S4 RELIC, UNCOMMON, 3.69%
+   -  1 LITH N2 RELIC, COMMON, 12.65%
+   -  1 LITH V2 RELIC, UNCOMMON, 3.69%
+   -  1 LITH S5 RELIC, UNCOMMON, 3.69%
+
+
+  Rotation B:
+   -  1 Speed Trigger, COMMON, 8.43%
+   -  1 Fast Hands, UNCOMMON, 1.47%
+   -  1 Point Strike, COMMON, 8.43%
+   -  1 Vital Sense, COMMON, 8.43%
+   -  1 Piercing Hit, UNCOMMON, 1.47%
+   -  1 Metal Auger, UNCOMMON, 1.47%
+   -  1 Pistol Gambit, COMMON, 8.43%
+   -  1 Target Cracker, COMMON, 8.43%
+   -  1 No Return, COMMON, 8.43%
+   -  1 Ravage, COMMON, 8.43%
+   -  1 Blunderbuss, COMMON, 8.43%
+   -  1 Point Blank, UNCOMMON, 1.47%
+   -  1 Serration, UNCOMMON, 1.47%
+   -  1 Hornet Strike, UNCOMMON, 1.47%
+   -  1 Fury, RARE, 2.01%
+   -  1 Reflex Coil, UNCOMMON, 1.47%
+   -  1 Pressure Point, COMMON, 8.43%
+   -  1 MESO S2 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S4 RELIC, UNCOMMON, 1.47%
+   -  1 MESO D1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO F1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO N3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V4 RELIC, UNCOMMON, 1.47%
+
+
+  Rotation C:
+   -  1 Convulsion, COMMON, 9.48%
+   -  1 Shocking Touch, COMMON, 9.48%
+   -  1 Stormbringer, UNCOMMON, 1.84%
+   -  1 Split Chamber, UNCOMMON, 1.84%
+   -  1 Stretch, UNCOMMON, 1.84%
+   -  1 Continuity, UNCOMMON, 1.84%
+   -  1 NEO T1 RELIC, UNCOMMON, 1.84%
+   -  1 Master Thief, RARE, 2.01%
+   -  1 MESO S2 RELIC, COMMON, 9.48%
+   -  1 MESO S4 RELIC, COMMON, 9.48%
+   -  1 50 ENDO, COMMON, 9.48%
+   -  1 80 ENDO, UNCOMMON, 1.84%
+   -  1 NEO V4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO V2 RELIC, UNCOMMON, 1.84%
+   -  1 NEO N4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO A1 RELIC, UNCOMMON, 1.84%
+   -  1 MESO N3 RELIC, COMMON, 9.48%
+   -  1 MESO S3 RELIC, COMMON, 9.48%
+   -  1 MESO V4 RELIC, COMMON, 9.48%
+   -  1 NEO N5 RELIC, UNCOMMON, 1.84%
+   -  1 NEO B1 RELIC, UNCOMMON, 1.84%
+
+
+[/Lotus/Types/Game/MissionDecks/MissionRewardsGrineer]:
+  Locations:
+
+  Rotation A:
+   -  1 Vitality, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Rush, UNCOMMON, 3.16%
+   -  1 Magazine Warp, COMMON, 15.18%
+   -  1 Trick Mag, COMMON, 15.18%
+   -  1 Pressure Point, RARE, 2.01%
+   -  1 Ammo Drum, UNCOMMON, 3.16%
+   -  1 Fast Hands, UNCOMMON, 3.16%
+   -  1 LITH S4 RELIC, UNCOMMON, 3.16%
+   -  1 LITH N2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH V2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH S5 RELIC, UNCOMMON, 3.16%
+
+
+  Rotation B:
+   -  1 Speed Trigger, COMMON, 8.43%
+   -  1 Fast Hands, UNCOMMON, 1.47%
+   -  1 Point Strike, COMMON, 8.43%
+   -  1 Vital Sense, COMMON, 8.43%
+   -  1 Piercing Hit, UNCOMMON, 1.47%
+   -  1 Metal Auger, UNCOMMON, 1.47%
+   -  1 Pistol Gambit, COMMON, 8.43%
+   -  1 Target Cracker, COMMON, 8.43%
+   -  1 No Return, COMMON, 8.43%
+   -  1 Ravage, COMMON, 8.43%
+   -  1 Blunderbuss, COMMON, 8.43%
+   -  1 Point Blank, UNCOMMON, 1.47%
+   -  1 Serration, UNCOMMON, 1.47%
+   -  1 Hornet Strike, UNCOMMON, 1.47%
+   -  1 Fury, RARE, 2.01%
+   -  1 Reflex Coil, UNCOMMON, 1.47%
+   -  1 Pressure Point, COMMON, 8.43%
+   -  1 MESO S2 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S4 RELIC, UNCOMMON, 1.47%
+   -  1 MESO D1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO F1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO N3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V4 RELIC, UNCOMMON, 1.47%
+
+
+  Rotation C:
+   -  1 Deep Freeze, COMMON, 9.48%
+   -  1 North Wind, COMMON, 9.48%
+   -  1 Cryo Rounds, UNCOMMON, 1.84%
+   -  1 Hell's Chamber, UNCOMMON, 1.84%
+   -  1 Stretch, UNCOMMON, 1.84%
+   -  1 Streamline, UNCOMMON, 1.84%
+   -  1 NEO T1 RELIC, UNCOMMON, 1.84%
+   -  1 Handspring, RARE, 2.01%
+   -  1 MESO S2 RELIC, COMMON, 9.48%
+   -  1 MESO S4 RELIC, COMMON, 9.48%
+   -  1 50 ENDO, COMMON, 9.48%
+   -  1 80 ENDO, UNCOMMON, 1.84%
+   -  1 NEO V4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO V2 RELIC, UNCOMMON, 1.84%
+   -  1 NEO N4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO A1 RELIC, UNCOMMON, 1.84%
+   -  1 MESO N3 RELIC, COMMON, 9.48%
+   -  1 MESO S3 RELIC, COMMON, 9.48%
+   -  1 MESO V4 RELIC, COMMON, 9.48%
+   -  1 NEO N5 RELIC, UNCOMMON, 1.84%
+   -  1 NEO B1 RELIC, UNCOMMON, 1.84%
+
+
+[/Lotus/Types/Game/MissionDecks/MissionRewardsInfested]:
+  Locations:
+   - Phobos, Opik, MT_RACE, FC_CORPUS, NT_EVENT
+
+  Rotation A:
+   -  1 Vitality, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Fast Deflection, COMMON, 15.18%
+   -  1 Rush, UNCOMMON, 3.16%
+   -  1 Magazine Warp, COMMON, 15.18%
+   -  1 Trick Mag, COMMON, 15.18%
+   -  1 Pressure Point, RARE, 2.01%
+   -  1 Ammo Drum, UNCOMMON, 3.16%
+   -  1 Fast Hands, UNCOMMON, 3.16%
+   -  1 LITH S4 RELIC, UNCOMMON, 3.16%
+   -  1 LITH N2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH V2 RELIC, UNCOMMON, 3.16%
+   -  1 LITH S5 RELIC, UNCOMMON, 3.16%
+
+
+  Rotation B:
+   -  1 Speed Trigger, COMMON, 8.43%
+   -  1 Fast Hands, UNCOMMON, 1.47%
+   -  1 Point Strike, COMMON, 8.43%
+   -  1 Vital Sense, COMMON, 8.43%
+   -  1 Piercing Hit, UNCOMMON, 1.47%
+   -  1 Metal Auger, UNCOMMON, 1.47%
+   -  1 Pistol Gambit, COMMON, 8.43%
+   -  1 Target Cracker, COMMON, 8.43%
+   -  1 No Return, COMMON, 8.43%
+   -  1 Ravage, COMMON, 8.43%
+   -  1 Blunderbuss, COMMON, 8.43%
+   -  1 Point Blank, UNCOMMON, 1.47%
+   -  1 Serration, UNCOMMON, 1.47%
+   -  1 Hornet Strike, UNCOMMON, 1.47%
+   -  1 Fury, RARE, 2.01%
+   -  1 Reflex Coil, UNCOMMON, 1.47%
+   -  1 Pressure Point, COMMON, 8.43%
+   -  1 MESO S2 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S4 RELIC, UNCOMMON, 1.47%
+   -  1 MESO D1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO F1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V1 RELIC, UNCOMMON, 1.47%
+   -  1 MESO N3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO S3 RELIC, UNCOMMON, 1.47%
+   -  1 MESO V4 RELIC, UNCOMMON, 1.47%
+
+
+  Rotation C:
+   -  1 Hellfire, COMMON, 9.48%
+   -  1 Heated Charge, COMMON, 9.48%
+   -  1 Molten Impact, UNCOMMON, 1.84%
+   -  1 Barrel Diffusion, UNCOMMON, 1.84%
+   -  1 Streamline, UNCOMMON, 1.84%
+   -  1 Intensify, UNCOMMON, 1.84%
+   -  1 NEO T1 RELIC, UNCOMMON, 1.84%
+   -  1 Thunderbolt, RARE, 2.01%
+   -  1 50 ENDO, COMMON, 9.48%
+   -  1 80 ENDO, UNCOMMON, 1.84%
+   -  1 MESO S2 RELIC, COMMON, 9.48%
+   -  1 MESO S4 RELIC, COMMON, 9.48%
+   -  1 NEO V4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO V2 RELIC, UNCOMMON, 1.84%
+   -  1 NEO N4 RELIC, UNCOMMON, 1.84%
+   -  1 NEO A1 RELIC, UNCOMMON, 1.84%
+   -  1 MESO N3 RELIC, COMMON, 9.48%
+   -  1 MESO S3 RELIC, COMMON, 9.48%
+   -  1 MESO V4 RELIC, COMMON, 9.48%
+   -  1 NEO N5 RELIC, UNCOMMON, 1.84%
+   -  1 NEO B1 RELIC, UNCOMMON, 1.84%
+
+
+[/Lotus/Types/Game/MissionDecks/NightmareModeRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/OceanSabotageRewards]:
+  Locations:
+   - Uranus, Desdemona, MT_SABOTAGE, FC_GRINEER, NT_MISSION
+   - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+
+[/Lotus/Types/Game/MissionDecks/OldWorldExcavationRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/OrokinDerelictSabotageRewards]:
+  Locations:
+   - Derelict, OROKIN DERELICT SABOTAGE, MT_SABOTAGE, FC_INFESTATION, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards]:
+  Locations:
+   - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+   - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+
+[/Lotus/Types/Game/MissionDecks/ProjectFriendlyFireRewardsBasic]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectFriendlyFireRewardsBonus]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectNightwatchBonusRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectPanaceaBonusRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 RIFT SIGIL, RARE, 0.25%
+   -  1 Stunning Speed, RARE, 0.25%
+   -  1 Hammer Shot, RARE, 0.25%
+   -  1 Blaze, RARE, 0.25%
+   -  1 Buzz Kill, RARE, 0.25%
+   -  1 Maim, RARE, 0.25%
+   -  1 Fanged Fusillade, RARE, 0.25%
+   -  1 Sweeping Serration, RARE, 0.25%
+   -  10 80 ENDO, UNCOMMON, 3.16%
+   -  5 80 ENDO, COMMON, 18.97%
+   -  1 3000 CREDITS, COMMON, 18.97%
+   -  1 4000 CREDITS, UNCOMMON, 3.16%
+   -  1 4000 CREDITS, UNCOMMON, 3.16%
+   -  1 DETONITE AMPULE, UNCOMMON, 3.16%
+   -  1 FIELDRON SAMPLE, COMMON, 18.97%
+   -  1 MUTAGEN SAMPLE, COMMON, 18.97%
+   -  2 Madurai Transmute Core, UNCOMMON, 3.16%
+   -  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+   -  1 Naramon Transmute Core, UNCOMMON, 3.16%
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectPanaceaRewards]:
+  Locations:
+
+  Rotation A:
+   -  1 RIFT SIGIL, RARE, 0.5%
+   -  1 Stunning Speed, RARE, 0.5%
+   -  1 Hammer Shot, RARE, 0.5%
+   -  1 Blaze, RARE, 0.5%
+   -  10 80 ENDO, UNCOMMON, 3.16%
+   -  5 80 ENDO, COMMON, 18.97%
+   -  1 3000 CREDITS, COMMON, 18.97%
+   -  1 4000 CREDITS, UNCOMMON, 3.16%
+   -  1 4000 CREDITS, COMMON, 18.97%
+   -  1 DETONITE AMPULE, UNCOMMON, 3.16%
+   -  1 FIELDRON SAMPLE, UNCOMMON, 3.16%
+   -  1 MUTAGEN SAMPLE, COMMON, 18.97%
+   -  2 Madurai Transmute Core, UNCOMMON, 3.16%
+   -  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+   -  1 Naramon Transmute Core, UNCOMMON, 3.16%
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsBasic]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsBonus]:
+  Locations:
+
+  Rotation A:
+   -  1 Shrapnel Shot, UNCOMMON, 5.61%
+   -  1 Catalyzer Link, UNCOMMON, 5.61%
+   -  1 Hydraulic Crosshairs, UNCOMMON, 5.61%
+   -  1 Body Count, UNCOMMON, 5.61%
+   -  5 80 ENDO, COMMON, 38.52%
+   -  25 80 ENDO, LEGENDARY, 0.51%
+   -  1 Focused Defense, COMMON, 38.52%
+
+
+  Rotation B:
+   -  1 Hydraulic Crosshairs, COMMON, 37.94%
+   -  1 Body Count, COMMON, 37.94%
+   -  1 Blood Rush, UNCOMMON, 3.69%
+   -  1 Sharpened Bullets, UNCOMMON, 3.69%
+   -  1 Bladed Rounds, UNCOMMON, 3.69%
+   -  1 Embedded Catalyzer, UNCOMMON, 3.69%
+   -  1 Nano-Applicator, RARE, 1.01%
+   -  1 Argon Scope, RARE, 1.01%
+   -  1 Guided Ordnance, UNCOMMON, 3.69%
+   -  1 Targeting Subsystem, UNCOMMON, 3.69%
+
+
+  Rotation C:
+   -  1 Shrapnel Shot, COMMON, 37.94%
+   -  1 Catalyzer Link, COMMON, 37.94%
+   -  1 Laser Sight, UNCOMMON, 5.53%
+   -  1 Weeping Wounds, UNCOMMON, 5.53%
+   -  1 Spring-Loaded Chamber, UNCOMMON, 5.53%
+   -  1 Repeater Clip, UNCOMMON, 5.53%
+   -  1 Maiming Strike, RARE, 0.67%
+   -  1 Pressurized Magazine, RARE, 0.67%
+   -  1 Narrow Barrel, RARE, 0.67%
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsFinal]:
+  Locations:
+
+  Rotation A:
+   -  1 Shrapnel Shot, COMMON, 10.84%
+   -  1 Catalyzer Link, COMMON, 10.84%
+   -  1 Hydraulic Crosshairs, COMMON, 10.84%
+   -  1 Blood Rush, COMMON, 10.84%
+   -  1 Sharpened Bullets, UNCOMMON, 2.21%
+   -  1 Bladed Rounds, UNCOMMON, 2.21%
+   -  1 Body Count, UNCOMMON, 2.21%
+   -  1 Embedded Catalyzer, UNCOMMON, 2.21%
+   -  1 Laser Sight, UNCOMMON, 2.21%
+   -  1 Weeping Wounds, UNCOMMON, 2.21%
+   -  1 Spring-Loaded Chamber, UNCOMMON, 2.21%
+   -  1 Repeater Clip, UNCOMMON, 2.21%
+   -  1 Maiming Strike, RARE, 0.67%
+   -  1 Nano-Applicator, RARE, 0.67%
+   -  1 Argon Scope, COMMON, 10.84%
+   -  1 Pressurized Magazine, COMMON, 10.84%
+   -  1 Targeting Subsystem, UNCOMMON, 2.21%
+   -  1 Guided Ordnance, UNCOMMON, 2.21%
+   -  1 Narrow Barrel, RARE, 0.67%
+   -  1 Focused Defense, COMMON, 10.84%
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectUndermineBonusRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectUndermineRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/PVPMissionRewards/CTFRewards]:
+  Locations:
+   - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
+   - Neptune, Cephalon Capture, MT_PVP, FC_CORPUS, NT_PVP
+
+[/Lotus/Types/Game/MissionDecks/PVPMissionRewards/DMRewards]:
+  Locations:
+   - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+
+[/Lotus/Types/Game/MissionDecks/PVPMissionRewards/TDMRewards]:
+  Locations:
+   - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+   - Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
+
+[/Lotus/Types/Game/MissionDecks/RaidRewards/GolemRaid]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/RaidRewards/HekRaid]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/RaidRewards/NightmareHekRaid]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/RaidRewards/NightmareResourceHekRaid]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy]:
+  Locations:
+   - Mercury, Caloris, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Venus, Linea, MT_RESCUE, FC_CORPUS, NT_MISSION
+   - Earth, Pacific, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Mars, Martialis, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Ceres, Olla, MT_RESCUE, FC_GRINEER, NT_EVENT
+   - Ceres, Nuovo, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Sedna, Jengu, MT_RESCUE, FC_GRINEER, NT_EVENT
+   - Phobos, Monolith, MT_RESCUE, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard]:
+  Locations:
+   - Saturn, Anthe, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Uranus, Mab, MT_RESCUE, FC_GRINEER, NT_EVENT
+   - Uranus, Caliban, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Neptune, Triton, MT_RESCUE, FC_CORPUS, NT_MISSION
+   - Pluto, Regna, MT_RESCUE, FC_CORPUS, NT_MISSION
+   - Eris, Brugia, MT_RESCUE, FC_INFESTATION, NT_MISSION
+   - Eris, Ranova, MT_RESCUE, FC_INFESTATION, NT_EVENT
+   - Eris, Sparga, MT_RESCUE, FC_INFESTATION, NT_EVENT
+   - Sedna, Naga, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Lua, Zeipel, MT_RESCUE, FC_CORPUS, NT_MISSION
+   - Kuva Fortress, Garus, MT_RESCUE, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium]:
+  Locations:
+   - Jupiter, Metis, MT_RESCUE, FC_CORPUS, NT_MISSION
+   - Saturn, Mimas, MT_RESCUE, FC_GRINEER, NT_EVENT
+   - Saturn, Numa, MT_RESCUE, FC_GRINEER, NT_MISSION
+   - Sedna, Veles, MT_RESCUE, FC_GRINEER, NT_EVENT
+   - Europa, Eligor, MT_RESCUE, FC_CORPUS, NT_EVENT
+   - Europa, Shax, MT_RESCUE, FC_CORPUS, NT_EVENT
+   - Europa, Orias, MT_RESCUE, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsNightmare]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewards]:
+  Locations:
+
+  Rotation A:
+   -  FixedWeights=True
+
+   -  1 Rifle Riven Mod, 8.62%
+   -  1 AYATAN ANASA SCULPTURE, 28%
+   -  50 80 ENDO, 12.1%
+   -  1 MADURAI LENS, 3%
+   -  1 GREATER MADURAI LENS, 1%
+   -  1 FORMA, 2.5%
+   -  1 EXILUS ADAPTER, 2.5%
+   -  1 OROKIN REACTOR BLUEPRINT, 2.5%
+   -  1 OROKIN CATALYST BLUEPRINT, 2.5%
+   -  1 Legendary Core, 0.18%
+   -  1 VAZARIN LENS, 3%
+   -  1 ZENURIK LENS, 3%
+   -  1 NARAMON LENS, 3%
+   -  1 UNAIRU LENS, 3%
+   -  1 GREATER VAZARIN LENS, 1%
+   -  1 GREATER ZENURIK LENS, 1%
+   -  1 GREATER NARAMON LENS, 1%
+   -  1 GREATER UNAIRU LENS, 1%
+   -  1 CREDIT BOOSTER, 3.27%
+   -  1 AFFINITY BOOSTER, 3.27%
+   -  1 RESOURCE DROP CHANCE BOOSTER, 3.27%
+   -  1 Pistol Riven Mod, 9.66%
+   -  1 Shotgun Riven Mod, 1.62%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsB]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 9.44%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 DERA VANDAL BLUEPRINT, COMMON, 9.44%
+   -  1 DERA VANDAL BARREL, COMMON, 9.44%
+   -  1 DERA VANDAL RECEIVER, UNCOMMON, 11%
+   -  1 DERA VANDAL STOCK, UNCOMMON, 11%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 9.44%
+   -  1 VAZARIN LENS, COMMON, 9.44%
+   -  1 ZENURIK LENS, COMMON, 9.44%
+   -  1 NARAMON LENS, COMMON, 9.44%
+   -  1 UNAIRU LENS, COMMON, 9.44%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsC]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 KARAK WRAITH BLUEPRINT, COMMON, 7.55%
+   -  1 KARAK WRAITH BARREL, COMMON, 7.55%
+   -  1 KARAK WRAITH RECEIVER, UNCOMMON, 7.33%
+   -  1 KARAK WRAITH STOCK, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsD]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 PYRA SYANDANA, RARE, 1%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 STRUN WRAITH BLUEPRINT, COMMON, 7.55%
+   -  1 STRUN WRAITH BARREL, COMMON, 7.55%
+   -  1 STRUN WRAITH RECEIVER, UNCOMMON, 7.33%
+   -  1 STRUN WRAITH STOCK, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsE]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 SHEEV BLUEPRINT, COMMON, 7.55%
+   -  1 SHEEV HILT, COMMON, 7.55%
+   -  1 SHEEV BLADE, UNCOMMON, 7.33%
+   -  1 SHEEV HEATSINK, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsF]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 SNIPETRON VANDAL BLUEPRINT, COMMON, 7.55%
+   -  1 SNIPETRON VANDAL STOCK, COMMON, 7.55%
+   -  1 SNIPETRON VANDAL RECEIVER, UNCOMMON, 7.33%
+   -  1 SNIPETRON VANDAL BARREL, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsG]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 DERA VANDAL BLUEPRINT, COMMON, 7.55%
+   -  1 DERA VANDAL BARREL, COMMON, 7.55%
+   -  1 DERA VANDAL RECEIVER, UNCOMMON, 7.33%
+   -  1 DERA VANDAL STOCK, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsH]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 LATRON WRAITH BLUEPRINT, COMMON, 7.55%
+   -  1 LATRON WRAITH BARREL, COMMON, 7.55%
+   -  1 LATRON WRAITH RECEIVER, UNCOMMON, 7.33%
+   -  1 LATRON WRAITH STOCK, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[/Lotus/Types/Game/MissionDecks/SortieRewardsI]:
+  Locations:
+
+  Rotation A:
+   -  25 80 ENDO, COMMON, 7.55%
+   -  1 Legendary Core, LEGENDARY, 0.17%
+   -  1 TWIN VIPERS WRAITH BLUEPRINT, COMMON, 7.55%
+   -  1 TWIN VIPERS WRAITH BARRELS, COMMON, 7.55%
+   -  1 TWIN VIPERS WRAITH LINK, UNCOMMON, 7.33%
+   -  1 TWIN VIPERS WRAITH RECEIVERS, UNCOMMON, 7.33%
+   -  1 EXILUS ADAPTER, LEGENDARY, 0.17%
+   -  1 MADURAI LENS, COMMON, 7.55%
+   -  1 VAZARIN LENS, COMMON, 7.55%
+   -  1 ZENURIK LENS, COMMON, 7.55%
+   -  1 NARAMON LENS, COMMON, 7.55%
+   -  1 UNAIRU LENS, COMMON, 7.55%
+   -  50 80 ENDO, LEGENDARY, 0.17%
+   -  1 OROKIN CATALYST BLUEPRINT, RARE, 1%
+   -  1 OROKIN REACTOR BLUEPRINT, RARE, 1%
+   -  1 NEZHA CHASSIS BLUEPRINT, UNCOMMON, 7.33%
+   -  1 NEZHA NEUROPTICS BLUEPRINT, COMMON, 7.55%
+   -  1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
+
+
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyHighMissionRewards]:
+  Locations:
+   - Uranus, Rosalind, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Neptune, Laomedeia, MT_INTEL, FC_CORPUS, NT_MISSION
+   - Pluto, Oceanum, MT_INTEL, FC_CORPUS, NT_MISSION
+   - Eris, Cyath, MT_INTEL, FC_INFESTATION, NT_EVENT
+   - Eris, Gnathos, MT_INTEL, FC_CORPUS, NT_EVENT
+   - Sedna, Kappa, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Sedna, Tikoloshe, MT_INTEL, FC_GRINEER, NT_EVENT
+   - Kuva Fortress, Pago, MT_INTEL, FC_GRINEER, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyLowMissionRewards]:
+  Locations:
+   - Mercury, Suisei, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Venus, Vesper, MT_INTEL, FC_CORPUS, NT_EVENT
+   - Venus, Unda, MT_INTEL, FC_CORPUS, NT_MISSION
+   - Earth, Cambria, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Mars, Arval, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Ceres, Hapke, MT_INTEL, FC_GRINEER, NT_EVENT
+   - Phobos, Grildrig, MT_INTEL, FC_GRINEER, NT_EVENT
+   - Phobos, Shklovsky, MT_INTEL, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards]:
+  Locations:
+   - Jupiter, Amalthea, MT_INTEL, FC_CORPUS, NT_MISSION
+   - Saturn, Dione, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Saturn, Aegaeon, MT_INTEL, FC_GRINEER, NT_EVENT
+   - Ceres, Bode, MT_INTEL, FC_GRINEER, NT_MISSION
+   - Europa, Valac, MT_INTEL, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMoonMissionRewards]:
+  Locations:
+   - Lua, Pavlov, MT_INTEL, FC_CORPUS, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]:
+  Locations:
+   - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+   - Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+   - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+
+  Rotation A:
+   -  1 2000 CREDITS, COMMON, 25%
+   -  1 2500 CREDITS, COMMON, 25%
+   -  1 3000 CREDITS, COMMON, 25%
+   -  5 80 ENDO, COMMON, 25%
+
+
+  Rotation B:
+   -  1 NEO V4 RELIC, COMMON, 6.25%
+   -  1 NEO N4 RELIC, COMMON, 6.25%
+   -  1 NEO T1 RELIC, COMMON, 6.25%
+   -  1 NEO A1 RELIC, COMMON, 6.25%
+   -  1 NEO V2 RELIC, COMMON, 6.25%
+   -  1 NEO V3 RELIC, COMMON, 6.25%
+   -  1 Steel Fiber, COMMON, 6.25%
+   -  1 Stretch, COMMON, 6.25%
+   -  1 Serration, COMMON, 6.25%
+   -  1 Hell's Chamber, COMMON, 6.25%
+   -  1 Hornet Strike, COMMON, 6.25%
+   -  1 Flow, COMMON, 6.25%
+   -  1 Split Chamber, COMMON, 6.25%
+   -  1 Stabilizer, COMMON, 6.25%
+   -  1 NEO N5 RELIC, COMMON, 6.25%
+   -  1 NEO B1 RELIC, COMMON, 6.25%
+
+
+  Rotation C:
+   -  1 AXI G1 RELIC, COMMON, 9.68%
+   -  1 AXI B1 RELIC, COMMON, 9.68%
+   -  1 AXI N2 RELIC, COMMON, 9.68%
+   -  1 AXI E2 RELIC, COMMON, 9.68%
+   -  1 AXI H1 RELIC, COMMON, 9.68%
+   -  1 AXI A1 RELIC, COMMON, 9.68%
+   -  1 Enduring Strike, UNCOMMON, 11.28%
+   -  1 Life Strike, UNCOMMON, 11.28%
+   -  1 AXI V5 RELIC, COMMON, 9.68%
+   -  1 AXI C1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]:
+  Locations:
+   - Venus, Malva, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+   - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+
+  Rotation A:
+   -  1 500 CREDITS, COMMON, 14.29%
+   -  1 1000 CREDITS, COMMON, 14.29%
+   -  1 1500 CREDITS, COMMON, 14.29%
+   -  1 2000 CREDITS, COMMON, 14.29%
+   -  1 15 ENDO, COMMON, 14.29%
+   -  1 50 ENDO, COMMON, 14.29%
+   -  1 80 ENDO, COMMON, 14.29%
+
+
+  Rotation B:
+   -  1 LITH V2 RELIC, COMMON, 9.09%
+   -  1 LITH S4 RELIC, COMMON, 9.09%
+   -  1 LITH N2 RELIC, COMMON, 9.09%
+   -  1 LITH S5 RELIC, COMMON, 9.09%
+   -  1 LITH V3 RELIC, COMMON, 9.09%
+   -  1 Parry, COMMON, 9.09%
+   -  1 Steel Fiber, COMMON, 9.09%
+   -  1 Serration, COMMON, 9.09%
+   -  1 Incendiary Coat, COMMON, 9.09%
+   -  1 Hornet Strike, COMMON, 9.09%
+   -  1 Intensify, COMMON, 9.09%
+
+
+  Rotation C:
+   -  1 LITH V2 RELIC, COMMON, 15.49%
+   -  1 LITH S4 RELIC, COMMON, 15.49%
+   -  1 LITH N2 RELIC, COMMON, 15.49%
+   -  1 LITH S5 RELIC, COMMON, 15.49%
+   -  1 LITH V3 RELIC, COMMON, 15.49%
+   -  1 True Punishment, UNCOMMON, 11.28%
+   -  1 Quickening, UNCOMMON, 11.28%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]:
+  Locations:
+   - Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+   - Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+   - Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+   - Phobos, Zeugma, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+
+  Rotation A:
+   -  1 1500 CREDITS, COMMON, 16.67%
+   -  1 2000 CREDITS, COMMON, 16.67%
+   -  1 2500 CREDITS, COMMON, 16.67%
+   -  1 15 ENDO, COMMON, 16.67%
+   -  1 50 ENDO, COMMON, 16.67%
+   -  1 80 ENDO, COMMON, 16.67%
+
+
+  Rotation B:
+   -  1 MESO D1 RELIC, COMMON, 6.67%
+   -  1 MESO V1 RELIC, COMMON, 6.67%
+   -  1 MESO S2 RELIC, COMMON, 6.67%
+   -  1 MESO S4 RELIC, COMMON, 6.67%
+   -  1 MESO F1 RELIC, COMMON, 6.67%
+   -  1 MESO N3 RELIC, COMMON, 6.67%
+   -  1 Provoked, COMMON, 6.67%
+   -  1 Steel Fiber, COMMON, 6.67%
+   -  1 Serration, COMMON, 6.67%
+   -  1 Hornet Strike, COMMON, 6.67%
+   -  1 Fast Deflection, COMMON, 6.67%
+   -  1 Charged Shell, COMMON, 6.67%
+   -  1 Vital Sense, COMMON, 6.67%
+   -  1 MESO S3 RELIC, COMMON, 6.67%
+   -  1 MESO V4 RELIC, COMMON, 6.67%
+
+
+  Rotation C:
+   -  1 NEO V4 RELIC, COMMON, 9.68%
+   -  1 NEO N4 RELIC, COMMON, 9.68%
+   -  1 NEO T1 RELIC, COMMON, 9.68%
+   -  1 NEO A1 RELIC, COMMON, 9.68%
+   -  1 NEO V2 RELIC, COMMON, 9.68%
+   -  1 NEO V3 RELIC, COMMON, 9.68%
+   -  1 Quickening, UNCOMMON, 11.28%
+   -  1 Enduring Strike, UNCOMMON, 11.28%
+   -  1 NEO N5 RELIC, COMMON, 9.68%
+   -  1 NEO B1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]:
+  Locations:
+   - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
+
+  Rotation A:
+   -  1 2000 CREDITS, COMMON, 25%
+   -  1 2500 CREDITS, COMMON, 25%
+   -  1 3000 CREDITS, COMMON, 25%
+   -  5 80 ENDO, COMMON, 25%
+
+
+  Rotation B:
+   -  1 NEO V4 RELIC, COMMON, 12.5%
+   -  1 NEO N4 RELIC, COMMON, 12.5%
+   -  1 NEO T1 RELIC, COMMON, 12.5%
+   -  1 NEO A1 RELIC, COMMON, 12.5%
+   -  1 NEO V2 RELIC, COMMON, 12.5%
+   -  1 NEO V3 RELIC, COMMON, 12.5%
+   -  1 NEO N5 RELIC, COMMON, 12.5%
+   -  1 NEO B1 RELIC, COMMON, 12.5%
+
+
+  Rotation C:
+   -  1 AXI G1 RELIC, COMMON, 11.11%
+   -  1 AXI B1 RELIC, COMMON, 11.11%
+   -  1 AXI N2 RELIC, COMMON, 11.11%
+   -  1 AXI E2 RELIC, COMMON, 11.11%
+   -  1 AXI H1 RELIC, COMMON, 11.11%
+   -  1 AXI A1 RELIC, COMMON, 11.11%
+   -  1 Life Strike, COMMON, 11.11%
+   -  1 AXI V5 RELIC, COMMON, 11.11%
+   -  1 AXI C1 RELIC, COMMON, 11.11%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalGeneticFoundryRewards]:
+  Locations:
+
+  Rotation B:
+   -  1 2000 CREDITS, COMMON, 33.33%
+   -  1 4000 CREDITS, COMMON, 33.33%
+   -  1 80 ENDO, COMMON, 33.33%
+
+
+  Rotation C:
+   -  1 2000 CREDITS, COMMON, 33.33%
+   -  1 4000 CREDITS, COMMON, 33.33%
+   -  1 80 ENDO, COMMON, 33.33%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards]:
+  Locations:
+   - Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+   - Uranus, Cupid, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+   - Pluto, Palus, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+   - Eris, Hymeno, MT_SURVIVAL, FC_INFESTATION, NT_EVENT
+   - Eris, Nimus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+   - Sedna, Selkie, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+   - Sedna, Scylla, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+   - Sedna, Yemaja, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+   - Lua, Tycho, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+   - Kuva Fortress, Taveuni, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+
+  Rotation A:
+   -  1 2000 CREDITS, COMMON, 25%
+   -  1 2500 CREDITS, COMMON, 25%
+   -  1 3000 CREDITS, COMMON, 25%
+   -  5 80 ENDO, COMMON, 25%
+
+
+  Rotation B:
+   -  1 NEO V4 RELIC, COMMON, 6.25%
+   -  1 NEO N4 RELIC, COMMON, 6.25%
+   -  1 NEO T1 RELIC, COMMON, 6.25%
+   -  1 NEO A1 RELIC, COMMON, 6.25%
+   -  1 NEO V2 RELIC, COMMON, 6.25%
+   -  1 NEO V3 RELIC, COMMON, 6.25%
+   -  1 Steel Fiber, COMMON, 6.25%
+   -  1 Stretch, COMMON, 6.25%
+   -  1 Serration, COMMON, 6.25%
+   -  1 Hell's Chamber, COMMON, 6.25%
+   -  1 Hornet Strike, COMMON, 6.25%
+   -  1 Flow, COMMON, 6.25%
+   -  1 Split Chamber, COMMON, 6.25%
+   -  1 Stabilizer, COMMON, 6.25%
+   -  1 NEO N5 RELIC, COMMON, 6.25%
+   -  1 NEO B1 RELIC, COMMON, 6.25%
+
+
+  Rotation C:
+   -  1 AXI G1 RELIC, COMMON, 9.68%
+   -  1 AXI B1 RELIC, COMMON, 9.68%
+   -  1 AXI N2 RELIC, COMMON, 9.68%
+   -  1 AXI E2 RELIC, COMMON, 9.68%
+   -  1 AXI H1 RELIC, COMMON, 9.68%
+   -  1 AXI A1 RELIC, COMMON, 9.68%
+   -  1 Cleanse Infested, UNCOMMON, 3.76%
+   -  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Arrow Mutation, UNCOMMON, 3.76%
+   -  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+   -  1 AXI V5 RELIC, COMMON, 9.68%
+   -  1 AXI C1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalLowLevelRewards]:
+  Locations:
+   - Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
+   - Venus, V Prime, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+   - Mars, Arcadia, MT_SURVIVAL, FC_CORPUS, NT_EVENT
+   - Phobos, Stickney, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+   - Phobos, Flimnap, MT_SURVIVAL, FC_GRINEER, NT_EVENT
+
+  Rotation A:
+   -  1 SYNTHULA, COMMON, 14.29%
+   -  1 1000 CREDITS, COMMON, 14.29%
+   -  1 1500 CREDITS, COMMON, 14.29%
+   -  1 2000 CREDITS, COMMON, 14.29%
+   -  1 15 ENDO, COMMON, 14.29%
+   -  1 50 ENDO, COMMON, 14.29%
+   -  1 80 ENDO, COMMON, 14.29%
+
+
+  Rotation B:
+   -  1 LITH V2 RELIC, COMMON, 9.09%
+   -  1 LITH S4 RELIC, COMMON, 9.09%
+   -  1 LITH N2 RELIC, COMMON, 9.09%
+   -  1 LITH S5 RELIC, COMMON, 9.09%
+   -  1 LITH V3 RELIC, COMMON, 9.09%
+   -  1 Parry, COMMON, 9.09%
+   -  1 Steel Fiber, COMMON, 9.09%
+   -  1 Serration, COMMON, 9.09%
+   -  1 Incendiary Coat, COMMON, 9.09%
+   -  1 Hornet Strike, COMMON, 9.09%
+   -  1 Intensify, COMMON, 9.09%
+
+
+  Rotation C:
+   -  1 LITH V2 RELIC, COMMON, 15.49%
+   -  1 LITH S4 RELIC, COMMON, 15.49%
+   -  1 LITH N2 RELIC, COMMON, 15.49%
+   -  1 LITH S5 RELIC, COMMON, 15.49%
+   -  1 LITH V3 RELIC, COMMON, 15.49%
+   -  1 Arrow Mutation, UNCOMMON, 3.76%
+   -  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Cleanse Grineer, UNCOMMON, 3.76%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards]:
+  Locations:
+   - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS, NT_MISSION
+   - Saturn, Titan, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+   - Ceres, Draco, MT_SURVIVAL, FC_GRINEER, NT_MISSION
+   - Europa, Zagan, MT_SURVIVAL, FC_CORPUS, NT_EVENT
+   - Void, Ani, MT_SURVIVAL, FC_OROKIN, NT_MISSION
+
+  Rotation A:
+   -  1 1500 CREDITS, COMMON, 16.67%
+   -  1 2000 CREDITS, COMMON, 16.67%
+   -  1 2500 CREDITS, COMMON, 16.67%
+   -  1 15 ENDO, COMMON, 16.67%
+   -  1 50 ENDO, COMMON, 16.67%
+   -  1 80 ENDO, COMMON, 16.67%
+
+
+  Rotation B:
+   -  1 MESO D1 RELIC, COMMON, 6.67%
+   -  1 MESO V1 RELIC, COMMON, 6.67%
+   -  1 MESO S2 RELIC, COMMON, 6.67%
+   -  1 MESO S4 RELIC, COMMON, 6.67%
+   -  1 MESO F1 RELIC, COMMON, 6.67%
+   -  1 MESO N3 RELIC, COMMON, 6.67%
+   -  1 Provoked, COMMON, 6.67%
+   -  1 Steel Fiber, COMMON, 6.67%
+   -  1 Serration, COMMON, 6.67%
+   -  1 Hornet Strike, COMMON, 6.67%
+   -  1 Fast Deflection, COMMON, 6.67%
+   -  1 Charged Shell, COMMON, 6.67%
+   -  1 Vital Sense, COMMON, 6.67%
+   -  1 MESO S3 RELIC, COMMON, 6.67%
+   -  1 MESO V4 RELIC, COMMON, 6.67%
+
+
+  Rotation C:
+   -  1 NEO V4 RELIC, COMMON, 9.68%
+   -  1 NEO N4 RELIC, COMMON, 9.68%
+   -  1 NEO T1 RELIC, COMMON, 9.68%
+   -  1 NEO A1 RELIC, COMMON, 9.68%
+   -  1 NEO V2 RELIC, COMMON, 9.68%
+   -  1 NEO V3 RELIC, COMMON, 9.68%
+   -  1 Cleanse Corpus, UNCOMMON, 3.76%
+   -  1 Pistol Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Arrow Mutation, UNCOMMON, 3.76%
+   -  1 Rifle Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Sniper Ammo Mutation, UNCOMMON, 3.76%
+   -  1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
+   -  1 NEO N5 RELIC, COMMON, 9.68%
+   -  1 NEO B1 RELIC, COMMON, 9.68%
+
+
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalUltraLevelRewards]:
+  Locations:
+   - Void, Mot, MT_SURVIVAL, FC_OROKIN, NT_MISSION
+
+  Rotation A:
+   -  1 2000 CREDITS, COMMON, 25%
+   -  1 2500 CREDITS, COMMON, 25%
+   -  1 3000 CREDITS, COMMON, 25%
+   -  5 80 ENDO, COMMON, 25%
+
+
+  Rotation B:
+   -  1 NEO V4 RELIC, COMMON, 12.5%
+   -  1 NEO N4 RELIC, COMMON, 12.5%
+   -  1 NEO T1 RELIC, COMMON, 12.5%
+   -  1 NEO A1 RELIC, COMMON, 12.5%
+   -  1 NEO V2 RELIC, COMMON, 12.5%
+   -  1 NEO V3 RELIC, COMMON, 12.5%
+   -  1 NEO N5 RELIC, COMMON, 12.5%
+   -  1 NEO B1 RELIC, COMMON, 12.5%
+
+
+  Rotation C:
+   -  1 AXI G1 RELIC, COMMON, 12.5%
+   -  1 AXI B1 RELIC, COMMON, 12.5%
+   -  1 AXI N2 RELIC, COMMON, 12.5%
+   -  1 AXI E2 RELIC, COMMON, 12.5%
+   -  1 AXI H1 RELIC, COMMON, 12.5%
+   -  1 AXI A1 RELIC, COMMON, 12.5%
+   -  1 AXI V5 RELIC, COMMON, 12.5%
+   -  1 AXI C1 RELIC, COMMON, 12.5%
+
+
+[/Lotus/Types/Game/MissionDecks/VaultRewards]:
+  Locations:
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/AklexPrime]:
+  Locations:
+   - AXI A2 RELIC
+
+  Rotation A:
+   -  1 AKLEX PRIME LINK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 AKLEX PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 LEX PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAA]:
+  Locations:
+   - LITH N2 RELIC
+
+  Rotation A:
+   -  1 NEKROS PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 HELIOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 SPIRA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAB]:
+  Locations:
+   - LITH V3 RELIC
+
+  Rotation A:
+   -  1 VALKYR PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 TIGRIS PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 HELIOS PRIME SYSTEMS, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 CERNOS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAC]:
+  Locations:
+   - MESO N3 RELIC
+
+  Rotation A:
+   -  1 NEKROS PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 EUPHONA PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CARRIER PRIME CEREBRUM, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 65 Ducats
+   -  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAD]:
+  Locations:
+   - MESO S4 RELIC
+
+  Rotation A:
+   -  1 SARYN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BANSHEE PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAE]:
+  Locations:
+   - MESO V4 RELIC
+
+  Rotation A:
+   -  1 VAUBAN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 VALKYR PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAF]:
+  Locations:
+   - NEO T1 RELIC
+
+  Rotation A:
+   -  1 TIGRIS PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 BANSHEE PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FRAGOR PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 65 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BURSTON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAG]:
+  Locations:
+   - NEO N5 RELIC
+
+  Rotation A:
+   -  1 NIKANA PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 ASH PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 65 Ducats
+   -  1 AKSTILETTO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 HELIOS PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAH]:
+  Locations:
+   - NEO B1 RELIC
+
+  Rotation A:
+   -  1 BANSHEE PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 VECTIS PRIME STOCK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 65 Ducats
+   -  1 BURSTON PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAI]:
+  Locations:
+   - AXI B1 RELIC
+
+  Rotation A:
+   -  1 BANSHEE PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 CERNOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 KAVASA PRIME BUCKLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 65 Ducats
+   -  1 EUPHONA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAJ]:
+  Locations:
+   - AXI E2 RELIC
+
+  Rotation A:
+   -  1 EUPHONA PRIME RECEIVER, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 BRONCO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/BansheePAK]:
+  Locations:
+   - AXI H1 RELIC
+
+  Rotation A:
+   -  1 HELIOS PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 AKSTILETTO PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 TRINITY PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 FRAGOR PRIME HEAD, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultA]:
+  Locations:
+   - LITH G1 RELIC
+
+  Rotation A:
+   -  1 GLAIVE PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 EMBER PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 LATRON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FROST PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 REAPER PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultB]:
+  Locations:
+   - MESO F2 RELIC
+
+  Rotation A:
+   -  1 FROST PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 REAPER PRIME BLADE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 LATRON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 EMBER PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SICARUS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultC]:
+  Locations:
+   - NEO S5 RELIC
+
+  Rotation A:
+   -  1 SICARUS PRIME RECEIVER, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 GLAIVE PRIME DISC, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FROST PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 LATRON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 EMBER PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 REAPER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultD]:
+  Locations:
+   - AXI E1 RELIC
+
+  Rotation A:
+   -  1 EMBER PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 GLAIVE PRIME BLADE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 LATRON PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SICARUS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FROST PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultA]:
+  Locations:
+   - LITH M1 RELIC
+
+  Rotation A:
+   -  1 MAG PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SOMA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 15 Ducats
+   -  1 DAKRA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BOAR PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultB]:
+  Locations:
+   - MESO B1 RELIC
+
+  Rotation A:
+   -  1 BOAR PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 DAKRA PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 MAG PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 ORTHOS PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ORTHOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultC]:
+  Locations:
+   - NEO D1 RELIC
+
+  Rotation A:
+   -  1 DAKRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 MAG PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 TRINITY PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 VASTO PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BOAR PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultD]:
+  Locations:
+   - AXI V2 RELIC
+
+  Rotation A:
+   -  1 VECTIS PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 HIKOU PRIME POUCH, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 MAG PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BOAR PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultEnd]:
+  Locations:
+   - AXI V3 RELIC
+
+  Rotation A:
+   -  1 VECTIS PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 ORTHOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRATON PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 TRINITY PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 VASTO PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAA]:
+  Locations:
+   - AXI N3 RELIC
+
+  Rotation A:
+   -  1 NEKROS PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 VOLT PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRONCO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAB]:
+  Locations:
+   - NEO N3 RELIC
+
+  Rotation A:
+   -  1 NEKROS PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAC]:
+  Locations:
+   - AXI T1 RELIC
+
+  Rotation A:
+   -  1 TIGRIS PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 AKSTILETTO PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BURSTON PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAD]:
+  Locations:
+   - AXI G1 RELIC
+
+  Rotation A:
+   -  1 GALATINE PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 NEKROS PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAE]:
+  Locations:
+   - LITH S3 RELIC
+
+  Rotation A:
+   -  1 SPIRA PRIME POUCH, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 SOMA PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAF]:
+  Locations:
+   - MESO S1 RELIC
+
+  Rotation A:
+   -  1 SOMA PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 ODONATA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 TIGRIS PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAG]:
+  Locations:
+   - MESO S2 RELIC
+
+  Rotation A:
+   -  1 SARYN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 PARIS PRIME GRIP, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAH]:
+  Locations:
+   - MESO F1 RELIC
+
+  Rotation A:
+   -  1 FRAGOR PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 NEKROS PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAI]:
+  Locations:
+   - LITH C1 RELIC
+
+  Rotation A:
+   -  1 CARRIER PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NOVA PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAJ]:
+  Locations:
+   - LITH K1 RELIC
+
+  Rotation A:
+   -  1 KAVASA PRIME BUCKLE, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 TIGRIS PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAK]:
+  Locations:
+   - NEO V2 RELIC
+
+  Rotation A:
+   -  1 VAUBAN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 GALATINE PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAL]:
+  Locations:
+   - NEO V3 RELIC
+
+  Rotation A:
+   -  1 VAUBAN PRIME NEUROPTICS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 TIGRIS PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAM]:
+  Locations:
+   - LITH N1 RELIC
+
+  Rotation A:
+   -  1 NOVA PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 AKBRONCO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 NEKROS PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsA]:
+  Locations:
+   - LITH S1 RELIC
+
+  Rotation A:
+   -  1 PARIS PRIME GRIP, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SPIRA PRIME POUCH, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 HIKOU PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsB]:
+  Locations:
+   - MESO D1 RELIC
+
+  Rotation A:
+   -  1 ORTHOS PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 ORTHOS PRIME BLADE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 DUAL KAMAS PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsC]:
+  Locations:
+   - NEO S1 RELIC
+
+  Rotation A:
+   -  1 SARYN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 TRINITY PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 CARRIER PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SOMA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsD]:
+  Locations:
+   - AXI S1 RELIC
+
+  Rotation A:
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 AKBRONCO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 SCINDO PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsA]:
+  Locations:
+   - LITH S2 RELIC
+
+  Rotation A:
+   -  1 SOMA PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NYX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+  Rotation B:
+   -  1 "", COMMON, I:100%, E:100%, F:100%, R:100%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsB]:
+  Locations:
+   - MESO N1 RELIC
+
+  Rotation A:
+   -  1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 NYX PRIME NEUROPTICS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsC]:
+  Locations:
+   - NEO S2 RELIC
+
+  Rotation A:
+   -  1 NYX PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 SARYN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsD]:
+  Locations:
+   - AXI V1 RELIC
+
+  Rotation A:
+   -  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 VAUBAN PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 VOLT PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsA]:
+  Locations:
+   - LITH F1 RELIC
+
+  Rotation A:
+   -  1 SCINDO PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FRAGOR PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 ODONATA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsB]:
+  Locations:
+   - MESO C1 RELIC
+
+  Rotation A:
+   -  1 CARRIER PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 NOVA PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 SCINDO PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsC]:
+  Locations:
+   - NEO N1 RELIC
+
+  Rotation A:
+   -  1 NYX PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 SOMA PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 HIKOU PRIME STARS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsD]:
+  Locations:
+   - AXI K1 RELIC
+
+  Rotation A:
+   -  1 KAVASA PRIME BUCKLE, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 HIKOU PRIME POUCH, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 AKSTILETTO PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]:
+  Locations:
+   - LITH A1 RELIC
+
+  Rotation A:
+   -  1 SARYN PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VECTIS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRATON PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 AKSTILETTO PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 VASTO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]:
+  Locations:
+   - MESO V1 RELIC
+
+  Rotation A:
+   -  1 BURSTON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 SPIRA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 VECTIS PRIME RECEIVER, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]:
+  Locations:
+   - NEO S3 RELIC
+
+  Rotation A:
+   -  1 SOMA PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 VASTO PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 SPIRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BURSTON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]:
+  Locations:
+   - AXI N2 RELIC
+
+  Rotation A:
+   -  1 CARRIER PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 NIKANA PRIME HILT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsA]:
+  Locations:
+   - LITH F2 RELIC
+
+  Rotation A:
+   -  1 ODONATA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 HIKOU PRIME STARS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 BURSTON PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VAUBAN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsB]:
+  Locations:
+   - MESO N2 RELIC
+
+  Rotation A:
+   -  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VAUBAN PRIME NEUROPTICS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 HIKOU PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsC]:
+  Locations:
+   - NEO V1 RELIC
+
+  Rotation A:
+   -  1 NYX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 BRONCO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VOLT PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NOVA PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsD]:
+  Locations:
+   - AXI A1 RELIC
+
+  Rotation A:
+   -  1 AKSTILETTO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FRAGOR PRIME HEAD, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NIKANA PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsA]:
+  Locations:
+   - LITH V1 RELIC
+
+  Rotation A:
+   -  1 FRAGOR PRIME HANDLE, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 PARIS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 VOLT PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BURSTON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsB]:
+  Locations:
+   - MESO V2 RELIC
+
+  Rotation A:
+   -  1 VASTO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NIKANA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsC]:
+  Locations:
+   - NEO N2 RELIC
+
+  Rotation A:
+   -  1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 VAUBAN PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 VASTO PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NOVA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsD]:
+  Locations:
+   - AXI N1 RELIC
+
+  Rotation A:
+   -  1 AKSTILETTO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 BRATON PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 ODONATA PRIME WINGS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ASH PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAA]:
+  Locations:
+   - LITH V2 RELIC
+
+  Rotation A:
+   -  1 VAUBAN PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
+   -  1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAB]:
+  Locations:
+   - LITH S4 RELIC
+
+  Rotation A:
+   -  1 SARYN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 TRINITY PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAC]:
+  Locations:
+   - LITH S5 RELIC
+
+  Rotation A:
+   -  1 SPIRA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 AKBRONCO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 GALATINE PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CARRIER PRIME CARAPACE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BURSTON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAD]:
+  Locations:
+   - MESO C2 RELIC
+
+  Rotation A:
+   -  1 CARRIER PRIME CEREBRUM, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 VALKYR PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 ODONATA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CERNOS PRIME UPPER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAE]:
+  Locations:
+   - MESO V3 RELIC
+
+  Rotation A:
+   -  1 VALKYR PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 KAVASA PRIME BAND, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CARRIER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+   -  1 SPIRA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAF]:
+  Locations:
+   - MESO S3 RELIC
+
+  Rotation A:
+   -  1 SPIRA PRIME POUCH, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 VALKYR PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 NEKROS PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAG]:
+  Locations:
+   - NEO A1 RELIC
+
+  Rotation A:
+   -  1 AKSTILETTO PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 CERNOS PRIME STRING, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VECTIS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAH]:
+  Locations:
+   - NEO V4 RELIC
+
+  Rotation A:
+   -  1 VENKA PRIME GAUNTLET, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 SARYN PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 ASH PRIME NEUROPTICS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 CERNOS PRIME GRIP, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 TIGRIS PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAI]:
+  Locations:
+   - NEO N4 RELIC
+
+  Rotation A:
+   -  1 NIKANA PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 VENKA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ASH PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAJ]:
+  Locations:
+   - AXI V4 RELIC
+
+  Rotation A:
+   -  1 VECTIS PRIME STOCK, RARE, I:2%, E:4%, F:6%, R:10%, 65 Ducats
+   -  1 CERNOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAK]:
+  Locations:
+   - AXI V5 RELIC
+
+  Rotation A:
+   -  1 VALKYR PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 BRATON PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 TIGRIS PRIME RECEIVER, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 VENKA PRIME BLADES, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 DUAL KAMAS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
+
+
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAL]:
+  Locations:
+   - AXI C1 RELIC
+
+  Rotation A:
+   -  1 CERNOS PRIME LOWER LIMB, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+   -  1 ORTHOS PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+   -  1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
+   -  1 TRINITY PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
+   -  1 VECTIS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+   -  1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
