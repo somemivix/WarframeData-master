@@ -2368,6 +2368,23 @@ Rotation C:
 [/Lotus/Types/Game/MissionDecks/VaultRewards]
 Stripped=True
 
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MiragePA]
+ - MEM E5 RELIC
+
+Rotation A:
+  1 MIRAGE PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 MIRAGE PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 MIRAGE PRIME CHASSIS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 MIRAGE PRIME SYSTEMS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 AKBOLTO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+  1 AKBOLTO PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 AKBOLTO PRIME RECEIVER, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 AKBOLTO PRIME LINK, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 KOGAKE PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
+  1 KOGAKE PRIME GAUNTLET, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
+  1 KOGAKE PRIME BOOT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
+
+
 [/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/HydroidPA]
  - MEM E5 RELIC
 
