@@ -5,7 +5,7 @@ DROP_MOD (Drop Chance: 100%, Exclusive)
 	Blood Rush, UNCOMMON, 2.21%
 	Body Count, COMMON, 15.18%, Bias 0.5
 	Weeping Wounds, UNCOMMON, 2.21%
-	Maiming Strike, RARE, 0.4%
+	Maiming Strike, RARE, 98.4%
 	Hydraulic Crosshairs, COMMON, 15.18%, Bias 0.5
 	Sharpened Bullets, UNCOMMON, 2.21%
 	Pressurized Magazine, RARE, 0.4%
